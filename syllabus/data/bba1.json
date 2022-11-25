@@ -1,0 +1,173 @@
+{
+    "semesters": 
+      {
+        "id": "bba1",
+        "subjects": {
+          "theory": [
+            {
+              "subjectName": "General Principles of Management",
+              "type":"",
+              "code": "MT101",
+              "openCode": "BBA11",
+              "shortName": "GPM",
+              "credit": 3,
+              "listOrder": 1,
+              "content": [
+                {
+                  "module": "Module - I",
+                  "content": "<b>Introduction to Management</b> : Definition, Nature, Managerial Roles, Managerial skills and Levels, Basic Functions of Management, Evolution of Management Thoughts and Trends and Challenges of Management in Global Scenario."
+                },
+                {
+                  "module": "Module - II",
+                  "content": "<b>Planning</b> : Definition, Nature, Importance, Types of Planning, Steps in Planning, Planning Premises Forecasting and decision making."
+                },
+                {
+                  "module": "Module - III",
+                  "content": "<b>Organizing</b> : Concept, Definition, Formal and Informal Organisation, Organizational Structure:- Types & significance (Functional Organization, Product/ Market Organisation and Matrix Structure), Span of Management, Delegation of authority."
+                },
+                {
+                  "module": "Module - IV",
+                  "content": "<b>Staffing & Controlling</b> : Definition, Process of staffing, Meaning & Need of Control, Controlling Process, Types of Control Devices."
+                },
+                {
+                  "module": "Module - V",
+                  "content": "<b>Directing</b> : Meaning of Motivation, Motivational theories - Maslow Hierarchy of Need Theory & Herzberg Two Factor Theory Leadership Definition, Characteristics (referring few theories of leadership)"
+                }
+              ],
+              "books": {
+                "textBooks": [
+                  {
+                    "bookName": "Koontz, H. and Weihrich, H (1998) & (2001) Essentials Of Management (Tata McGrawHill: NewDelhi) Edition - 5<sup>th</sup> and 10<sup>th</sup>"
+                  }
+                ],
+                "referenceBooks": [
+                  {
+                    "bookName": "Stoner, Freeman and Gilbert, Management (Prentice Hall of India: NewDelhi) Edition - 5"
+                  }
+                ]
+              }
+            },
+            {
+              "subjectName": "Business Statistics",
+              "type": "",
+              "code": "MT102",
+              "openCode": "BBA12",
+              "shortName": "BS",
+              "credit": 4,
+              "listOrder": 2,
+              "content": [
+                {
+                  "module": "Module - I",
+                  "content": "<b>Introduction to Statistics</b> : Definition of Statistics, Scope of Statistics, Types of Data. Methods of collecting Data, Diagrammatic and Graphic Presentation of Data, Graphs of Frequency Distribution. Numerical exercises."
+                },
+                {
+                  "module": "Module - II",
+                  "content": "<b>Measures of Central Tendency</b> : Need for measuring central tendency of data; Arithmetic Mean, Geometric Mean, Harmonic Mean, Median, Mode: their properties, merits and demerits. Numerical exercises."
+                },
+                {
+                  "module": "Module - III",
+                  "content": "<b>Measures of Dispersion</b> : Need for measuring dispersion of data; Range, Mean Absolute Deviation, Quartile Deviation, Standard deviation, Coefficient of Variation: their properties, merits and demerits. Numerical exercises."
+                },
+                {
+                  "module": "Module - IV",
+                  "content": "<b>Correlation and Regression Analysis (for ungrouped data)</b> : Need for studying correlation, Types of Correlation, Methods of Studying Correlation: Scatter Diagram, Karl Pearson’s coefficient of correlation, Spearman’s Rank Correlation, Method of least squares. Need for studying regression analysis, Two regression equations, Regression co-efficients and its properties. Numerical exercises."
+                },
+                {
+                  "module": "Module - V",
+                  "content": "<b>Business Forecasting through Time Series Analysis</b> : Significance of forecasting in business, Steps in Forecasting, Role of Time Series Analysis, Components of Time Series: Secular Trend, Seasonal Variations, Cyclical Variations, Irregular Variations. Method of Semi-averages. Numerical exercises."
+                }
+              ],
+              "books": {
+                "textBooks": [
+                  {
+                    "bookName": "Gupta S.P. and Gupta M.P. (2015), BusinessStatistics. (Sultan Chand & Sons: New Delhi). 18<sup>th</sup>ed."
+                  },
+                  {
+                    "bookName": "Das N.G. (2017). Statistical Methods (combined volumes). (Tata McGraw-Hill: New Delhi)."
+                  }
+                ],
+                "referenceBooks": [
+                  {
+                    "bookName": "Richard I. Levin, David S. Rubin, Masood H. Siddiqui (2017), Statistics for Management. (Pearson: New Delhi) 8<sup>th</sup>ed."
+                  },
+                  {
+                    "bookName": "Hogg Robert V., Mckean Joeseph, Craig Allen T. (2017), Introduction to Mathematical Statistics (Pearson: New Delhi) 7<sup>th</sup>ed."
+                  },
+                  {
+                    "bookName": "Miller James D. (2017), Statistics for Data Science (Packt Publishing: Birmingham-Mumbai) 1<sup>st</sup>ed."
+                  }
+                ]
+              }
+            },
+            {
+              "subjectName": "Introduction To Business Accounting",
+              "type": "",
+              "code": "MT102",
+              "openCode": "BBA13",
+              "shortName": "IBA",
+              "credit": 3,
+              "listOrder": 3,
+              "content": [
+                {
+                  "module": "Module - I",
+                  "content": "<b>Accounting</b> : Basics of Accounting, Accounting Mechanics Double Entry System, Classification, Golden Rules, Concepts and Conventions Journal: Meaning, Advantages, Ledger meaning, Posting and Balancing, Trial Balance Objectives, defects, locating errors and preparations of Trial Balance, Subdivision of journal-day book."
+                },
+                {
+                  "module": "Module - II",
+                  "content": "<b>Final Accounts</b> : Trading Account, Profit and Loss Account, Balance sheet, Closing entries, Assets and their Classification, Liabilities and their Classification, Uses and Limitations of Balance sheet."
+                },
+
+
+
+                {
+                  "module": "Module - III",
+                  "content": "<b>       </b> : Capital and Revenue Expenditure and Receipts: Rules for Determining Capital Expenditure and Revenue Expenditure, Deferred Revenue Expenditure, Capital and Revenue Receipts, Capital and Revenue Profit and Loss."
+                },
+
+
+
+                {
+                  "module": "Module - IV",
+                  "content": "<b>Accounting for Non-Profit Organization</b> : Accounting Procedures, Receipts and Payments Accounts, Distinction between Receipts and Payments Accounts, Income and Expenditure Account problems."
+                },
+
+
+
+                {
+                  "module": "Module - V",
+                  "content": "Bills of Exchange: Parties to a Bills of Exchange, Types, Promissory Notes, Distinction between Promissory Notes and Bills of Exchange, Dishonour of Bills, preparation of Bank Reconciliation."
+                }
+
+
+
+                
+              ],
+              "books": {
+                "textBooks": [
+                  {
+                    "bookName": "Hanif and Mukherjee (2003), Modern Accountancy Volume 1, Tata McGraw Hill Publishing Company limited, New Delhi, 2<sup>nd</sup>ed"
+                  },
+                  {
+                    "bookName": "Grewal, T.S (2003) Introduction to Accountancy : S. Chand & Company Ltd"
+                  },
+                  {
+                    "bookName": "Tulsian P.C., Financial Accounting, Pearson, sixteenth impression, 2015"
+                  }
+                ],
+                "referenceBooks": [
+                  {
+                    "bookName": "Robert.N.Anthony, David.F.Hawkins, Kenneth.A.Merchant (2004) Accounting Text and Cases, Tata McGraw Hill Publishing Company Limited, New Delhi, 11<sup>th</sup>ed"
+                  },
+                  {
+                    "bookName": "Frank wood & Alan Sangster (2008), Business Accounting, Pearson education limited, 11<sup>th</sup>ed"
+                  }
+                ]
+              }
+            }            
+          ],
+          "lab": [
+            
+          ]
+        }
+      }
+  }

@@ -1,0 +1,54 @@
+{
+    "semester": {
+        "id": "mca1",
+        "subjects": {
+            "theory": [
+                {
+                    "subjectName": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+                    "code": "CA403",
+                    "shortName": "COA",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "DATA STRUCTURES AND ALGORITHMS",
+                    "code": "CA405",
+                    "shortName": "DSA",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Database Design Concepts",
+                    "code": "CA407",
+                    "shortName": "DBC",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "OBJECT ORIENTED DESIGN USING JAVA",
+                    "code": "CA409",
+                    "shortName": "OODJ",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "MODERN OPERATING SYSTEMS",
+                    "code": "CA411",
+                    "shortName": "MOS",
+                    "credit": 3
+                }
+            ],
+            "lab": [
+            {
+                "subjectName": "Data Structures and Algorithms Lab",
+                "code": "CA406",
+                "shortName": "DSA Lab",
+                "credit": 1.5
+            },
+            {
+                "subjectName": "DATABASE DESIGN CONCEPTS LAB",
+                "code": "CA408",
+                "shortName": "DBC Lab",
+                "credit": 1.5
+            }
+            ],
+            "pe": []
+        }
+    }
+}

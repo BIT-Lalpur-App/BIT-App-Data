@@ -1,0 +1,181 @@
+{
+     "semesters": {
+        "id": "bca3",
+        "subjects": {
+            "theory": [
+              {
+                "subjectName": "Java Programming",
+                "type": "",
+                "code": "CA205",
+                "openCode": "BBC31",
+                "shortName": "java",
+                "credit": 3,
+                "listOrder": 1,
+                "content": [
+                  {
+                    "module": "Module - I",
+                    "content": "Procedure-Oriented Programming, Object-Oriented programming, Benefits of OOP, Applications of OOP, Basics, Evolution of Java, Structure of JAVA Program, Simple Java Program, Tokens, Comments, Identifiers, Operators, Literals, Control Structures.<br>Java Environment Setup, Compiling a Java Program, Java Virtual Machine, Philosophy of Java and Benefits."
+                  },
+                  {
+                    "module": "Module - II",
+                    "content": "Data types and program statements: Primitive and reference data types, variables and constants, enumerated constants, labelled statement, expression and null statements, compound statement, control statement - decision and loops, jump statement, declaration statement, try-throw-catch-finally statement, declaring and creating arrays, accessing array elements, assigning values to array elements, multidimensional arrays."
+                  },
+                  {
+                    "module": "Module - III",
+                    "content": "Functions, Data Abstraction and classes: Declaration, definition and call, main method arguments, reference variables, method overloading, parameter passing by value for primitive types, object references and arrays, scope of variables, return from methods.<br>Class and object, class members and initialization, access rights of members - public, private and protected access modifiers, constructor and copy constructor, mutability, finalization,dynamic memory management, garbage collection, this keyword, static members, scope of variables, interface - declaration, implementation and extending, package and package visibility."
+                  },
+                  {
+                    "module": "Module - IV",
+                    "content": "Inheritance and Collection classes: multi-level and single inheritance, multiple inheritance of interfaces, Object class, access rights in subclasses and packages, constructor calling sequence, super keyword, dynamic binding of methods, abstract class, overriding, shadowing and hiding, finalize, association, aggregation and composition<br>.String, StringBuffer, Date, Calendar, Math, Object, Class, Exception class"
+                  },
+                  {
+                    "module": "Module - V",
+                    "content": "Input/Output and JAVA Applets: Stream classes - InputStream, OutputStream, Buffered Stream, file classes and handling, pushback streams, reader and writer classes, file reader and writer, serialization.<br>Applet code example, HTML tags for applet, applet life cycle, color, font andbasic GUI handling, basic graphics, and animation. "
+                  }
+                ],
+                "books": {
+                  "textBooks": [
+                    {
+                      "bookName": "1. Balagurusamy E., “Programming in Java”, 2nd Edition, Tata McGraw Hill Publication, New Delhi."
+                    }
+                  ],
+                  "referenceBooks": [
+                    {
+                      "bookName": "1. Naghton Patrick &Schildt H., “The Complete Reference Java 2”, Tata McGraw Hill Publication, New Delhi."
+                    },
+                    {
+                      "bookName": "2. Dietel Harvey M &Dietel Paul J., “Java How to program”, 7th edition, Pearson Education, New Delhi. "
+                    }
+                  ]
+                }
+              },
+              {
+                "subjectName": "Database Management System",
+                "type": "",
+                "code": "CA203",
+                "openCode": "BBC32",
+                "shortName": "dbms",
+                "credit": 3,
+                "listOrder": 1,
+                "content": [
+                  {
+                    "module": "Module - I",
+                    "content": "<b>Introduction:</b> Purpose of Database Systems, View of Data, Data Models, Database Languages, Relational Database, Database Architecture, Database Users and Administrators, Transaction Management."
+                  },
+                  {
+                    "module": "Module - II",
+                    "content": "<b>Relational Data Models and Languages:</b> Basic Concepts, Constraints, Keys, EntityRelationship Diagram, Weak Entity Sets, Extended E-R Features, Reduction of an E-R Diagram to Tables, The Relational Algebra, The Tuple Relational Calculus and The Domain Relational Calculus"
+                  },
+                  {
+                    "module": "Module - III",
+                    "content": "<b>Relational-Database Design:</b> Pitfalls in Relational-Database Design, Functional Dependencies, Decomposition, Desirable Properties of Decomposition, First Normal Form, Second Normal Form, Third normal Form, Boyce-Codd Normal Form, Fourth Normal Form and More Normal Forms."
+                  },
+                  {
+                    "module": "Module - IV",
+                    "content": "<b>Query Processing and Optimization:</b> Overview, Measures of Query Cost, Selection Operation, Join Operation, Other Operations, Evaluation of Expressions, Transformation of Relational Expressions, Estimating Statistics of Expression Results, and Choice of Evaluation Plans."
+                  },
+                  {
+                    "module": "Module - V",
+                    "content": "<b>Transactions and Concurrency Control:</b> Transaction Concept, Transaction State, Desirable Properties of Transactions, Concurrent Executions, Serializability, Recoverability, Lock-Based Protocols, Timestamp-Based Protocols and Deadlock Handling."
+                  }
+                ],
+                "books": {
+                  "textBooks": [
+                    {
+                      "bookName": "Silberschatz, Korth, &Sudarshan, “Database System Concepts”, 6th Edition, McGraw Hill, 2011. "
+                    }
+                  ],
+                  "referenceBooks": [
+                    {
+                      "bookName": "1. Elmasri, &Navathe, “Fundamentals of Database Systems”, 5th Edition, Pearson Education, 2008. "
+                    },
+                    {
+                      "bookName": "2. Date C.J., “An Introduction to Database System”, Pearson Education, New Delhi, 2005."
+                    }
+                  ]
+                }
+              },
+              {
+                "subjectName": "Introduction To Internet Technologies",
+                "type": "PE",
+                "code": "CA317",
+                "openCode": "BBC33",
+                "shortName": "it",
+                "credit": 3,
+                "listOrder": 1,
+                "content": [
+                  {
+                    "module": "Module - I",
+                    "content": "Internet Basics: Introduction to Internet, Client Server model, Internet IP Address, Domain Name, Domain Registration, Internet Services, A Brief Overview of TCP/IP and its Services, Hyper Text Transfer Protocol: Introduction, Web Servers and Clients, IP Address, Cyber Laws, URL and its Anatomy, Message format, Testing HTTP Using Telnet, Persistent and Non persistent Connections, Internet Security, Web Caching, Proxy. "
+                  },
+                  {
+                    "module": "Module - II",
+                    "content": "History of HTML and W3C, HTML and its Flavours, HTML Basics, Elements, Attributes and Tags, Basic Tags, Advanced Tags, Frames, Images, Meta Tag, Planning of Web Page, Model and Structure for a Website, Designing Web Pages, Multimedia Content Frames, Cascading Style Sheet:Introduction,Advantages, Adding CSS, Browser Compatibility, CSS and Page Layout, Selectors."
+                  },
+                  {
+                    "module": "Module - III",
+                    "content": "XML Technologies: Common Usage, Role of XML,Prolog,Body, Elements, Attributes,Validation, Displaying XML, Namespace. XML DTD: XML Schema Languages, validation,Introduction to DTD, Purpose of DTD, Using a DTD in an XML Document, Element Type Declaration, Attribute Declaration, Entity Declaration.<br>Parsing XML: XML DOM, DOM Nodes, The Node Interface, Document Node, Element Node, Text Node, Attr Node, Java and DOM."
+                  },
+                  {
+                    "module": "Module - IV",
+                    "content": "Server Side Programming: Servlet : Server –Side JAVA, Advantages Over Applets , Servlet Alternatives , Servlets Strengths , Servlet Architecture, Servlet life Cycle , Generic Servlet and Http Servlet, First Servlet , Passing Parameters to Servlets , Retrieving Parameters , Server side Include , Cookies, Filters, Problems with Servlet, Security Issues , Java Server Pages : Introduction and Marketplace , JSP and HTTP, JSP Engines, How JSP Works , JSP and Servlet, Anatomy of JSP page , JSP Syntax , JSP Components."
+                  },
+                  {
+                    "module": "Module - V",
+                    "content": "Session Tracking: User Passing Control and Data between Pages, Sharing Session and Application Data, Data Base Connectivity, JDBC Drivers, Basic Steps, Loading a Driver, Making a connection, Execute an SQLStatement, SQl Statements, Retrieving Result, GettingDatabase Information, Scrollable and Updatable Result Set, Result Set Metadata."
+                  }
+                ],
+                "books": {
+                  "textBooks": [
+                    {
+                      "bookName": "1. RoyUttam K., “Web Technology”, Oxford University Press. "
+                    }
+                  ],
+                  "referenceBooks": [
+                    {
+                      "bookName": "1. EtalXue Bai, “The Web Warrior Guide to Web Programming”, Thomson Learning, 2003. "
+                    },
+                    {
+                      "bookName": "2. XavierC., “Web Technology & Design”, New Age International Publishers, 1stEdn, New Delhi,2004."
+                    }
+                  ]
+                }
+              }
+            ],
+            "lab": [
+                 {
+                   "subjectName": "Java Programming Lab",
+                   "type": "",
+                   "code": "CA206",
+                   "openCode": "BCA34",
+                   "shortName": "java lab",
+                   "credit": 2,
+                   "listOrder": 1,
+                   "content": [
+                     {
+                       "question": "1. WAJP to show the characteristic of a number. {E.g. 24 it has two coefficients 2 in tens position and 4 in units position. It is composed of 2 and 3. It is a positive number. Also show whether it is odd or even.}<br><br>2. WAJP to take input through command line argument and do the following: <br>&emsp;a) Check whether the number is prime.<br>&emsp;b) Generate the reverse a number.<br><br>4. Write a program in Java to generate hexadecimal equivalent of a number without using array.<br><br>5. WAJP to take two number inputs through command line argument and do the following:<br>&emsp;a) Check whether two numbers are prime to each other or not.<br>&emsp;b) Find LCM of two numbers.<br><br>6. WAJP to create a class and exhibit the role of static functions (other than main) by declaring,defining and calling them.<br><br>7.WAJP to compute and display the count of occurrence of 4 in a number. E.g. 4564 Will compute 2.<br><br>8.WAJP to take an angle value in degrees and then compute the equivalent radians and then prove",
+                       "image": "https://github.com/aiyu-ayaan/BIT-App-Data/blob/master/syllabus/images/bca34_1.png?raw=true"
+                     },
+                     {
+                        "question":"9. WAJP to sort a list of numbers in ascending order.<br><br>1O.WAJP to generate Pascal's Triangle using a square matrix.<br><br>11. Write a program in Java to take input of two matrices through command line argument and then:<br>&emsp;a) Add them up and display the result.<br>&emsp;b) Subtract them and display the result.<br>&emsp;c) Multiply them and display product.<br><br>12. WAJP to count the number of words, characters in a sentence.<br><br>13. Write a program in Java to take input of a sentence through command line argument and then count the number of words and vowels.<br><br>14. WAJP to handle the Exception using try and multiple catch block; the exceptions that you will handle are, number format error, array bound error and divide by zero.<br><br>15. WAJP to create a class called <b>Room</b> with two data member length and width and then implement constructor overloadin in it.<br><br>16. Write a program in Java to explain the role of the following:<br>&emsp;a) Non-parameterized constructor.<br>&emsp;b) Parameterized constructor.<br>&emsp;c) Copy constructor (take input and display the output.)<br><br>17. WAJP to create a class called <b>Fraction</b> with data member numerator and denominator, take input (through command line argument) of two fractions and then add, subtract, multiply and divide,finally display the result in reduced term.<br><br>18. Write a program in Java to create a class for <b>Employee</b> having 2 data member code and name. Then create 3 classes <b>Officer</b>, <b>AdminStaff</b> and <b>MStaff</b>. The <b>Officer</b> class has data members designation and pay-scale, the <b>AdminStaff</b> has data members grade and pay-band, the <b>MStaff</b> has data member department and two sub-classes <b>Regular</b> and <b>Casual</b>. The <b>Regular</b> staff has data members level and consolidated-pay and <b>Casual</b> has data member daily-wage. Take all inputs through constructors and write appropriate methods for displaying one data for each type of class.<br><br>19. WAJP to design a class called <b>Account</b> using the inheritance and static that show all function of bank (withdrawal,desit) and generate account number dynamically.<br><br>20. WAJP to design an application Password-java that produces and prints a random password depending upon name of an individual. If the input is Abdul Kalam then the password would be 33421LAM. Note: take the first name A=I, B=2, D=4, U=21 where 2+1=3, and L=12, where 1+2=3,so the number comes to be 12433, so u can find out.<br><br>21. WAJP to draw a format like",
+                        "image":"https://github.com/aiyu-ayaan/BIT-App-Data/blob/master/syllabus/images/bca34_2.jpg?raw=true"
+                     },
+                     {
+                        "question":"22. WAJP to take a string count all vowels and then delete the same from the string.<br><br>23. Write a Patient class which inherits from the Person class. Patient can again be of two types, indoor and outdoor. The Patient class requires the following:<br>&emsp;a) a variable to store the patient ID for the patient.<br>&emsp;b) a variable to store the department of hospital.<br>&emsp;c)a variable to store the ward of hospital.<br>&emsp;d) a variable to store the patient 's date of joining the hospital.<br>&emsp;e) a variable to store the patient 's address.<br>&emsp;f) a variable to store the medical fees that the patient pays.<br>&emsp;g) constructor methods, which initialize the variables.<br>&emsp;h) a method to calculate the medical fees (for both indoor and outdoor patient)",
+                        "image": null
+                     }
+
+                   ],
+                   "books": {
+                     "textBooks": [
+
+                     ],
+                     "referenceBooks": [
+
+                     ]
+                   }
+                 }
+            ]
+        }
+    }
+}

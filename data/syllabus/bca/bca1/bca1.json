@@ -1,0 +1,52 @@
+{
+  "semester": {
+    "id": "bca1",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "FUNDAMENTALS OF C PROGRAMMING",
+          "code": "CA111",
+          "shortName": "FOCP",
+          "credit": 4
+        },
+        {
+          "subjectName": "Logical Organizations of Computers",
+          "code": "CA103",
+          "shortName": "loof loc",
+          "credit": 4
+        },
+        {
+          "subjectName": "BASICS OF MATHEMATICS",
+          "spenCode": "BCA13",
+          "code": "CA105",
+          "shortName": "math",
+          "credit": 3,
+          "listOrder": 3
+        },
+        {
+          "subjectName": "INTRODUCTION TO COMPUTER SCIENCE",
+          "code": "CA115",
+          "shortName": "itcs",
+          "credit": 3
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "C PROGRAMMING LAB",
+          "code": "CA112",
+          "shortName": "cpl",
+          "credit": 2
+        },
+        {
+          "subjectName": "UNIX Programming Lab",
+          "code": " CA114",
+          "shortName": "oat",
+          "credit": 2
+        }
+      ],
+      "pe": [
+
+      ]
+    }
+  }
+}

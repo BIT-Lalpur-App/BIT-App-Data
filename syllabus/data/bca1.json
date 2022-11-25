@@ -1,0 +1,278 @@
+{
+  "semesters": 
+    {
+      "id": "bca1",
+      "subjects": {
+        "theory": [
+          {
+            "subjectName": "Problem Solving And Programming in C",
+            "type":"",
+            "code": "CA101",
+            "openCode": "BCA11",
+            "shortName": "PSPC",
+            "credit": 3,
+            "listOrder": 1,
+            "content": [
+              {
+                "module": "Module - I",
+                "content": "<b>Problem Solving and Programming Concepts</b> : Problem Solving in Everyday Life, Types of Problem, Problem Solving with Computers.<br><b>Overview of C</b>: History of C, Importance of C, Structure of C program, Sample of C programs. Constant, Variable and Data types: C Tokens - keywords, identifier, constant, string, and operators, and symbols, Data types - primary data types, user defined data types, and derived data types, Declaration of variables, assign values to variables.<br><b>Operators and Expressions</b>: Different types of operators - arithmetic operators, relational operators, logical operators, assignment operators, increment and decrement operators, bitwise operators, conditional operators and special operators, Arithmetic expressions - precedence of arithmetic operators, Type conversions in expressions.<br><b>Managing input and output operations</b>: Reading a character, Writing a character, Formatted input, Formatted output."
+              },
+              {
+                "module": "Module - II",
+                "content": "Decision making and Branching: Decision making with if statement - Simple if statement, The if …. Else statement, Nesting of if …. Else statement, The else if ladder, The switch statement, The ? : Operator, The go-to statement.<br>Decision making and Looping: The while statement, The do statement, The for statement, Jumps in loops."
+              },
+              {
+                "module": "Module - III",
+                "content": "Arrays: One - dimensional arrays, Declaration of one - dimensional arrays, Twodimensional arrays, Declaration of two - dimensional arrays, Multi - dimensional arrays.<br>Character Arrays and String: Declaring and initializing string variables, Reading string from terminal, Writing string to screen, Putting string together, Comparison of two strings, String handling functions, Other features of strings."
+              },
+              {
+                "module": "Module - IV",
+                "content": "User defined functions: A multi - function program, Definition of function, Function calls, Function declaration, Category of functions, Nesting of functions, Recursion, Passing arrays to functions, Passing strings to functions."
+              },
+              {
+                "module": "Module - V",
+                "content": "Structures and Unions: Defining a structure, Declaring structure variables, Accessing structure members, Arrays of structures, Arrays within structures, Structures within structures, Structures and functions, Union.<br>Pointers: Understanding pointers, Accessing the address of a variable, Declaring pointer variables, Pointer expressions, Array of pointers, Pointers to function, Pointers and structures.<br>File Management: Defining and opening a file, Closing a file, Input/ Output operations on files, Error handling during I/O operations "
+              }
+            ],
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Balagurusamy E., “Programming in ANSI C”, 5thEdition, TMH, 2010. (T1)"
+                },
+                {
+                  "bookName": "Sprankle M., “Problem Solving and Programming Concepts”, 7thEdition, Pearson Education, NewDelhi, 2006.(T2)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Gottfried B. S., “Programming with C”, Schaum Series, McGraw Hill, 2005. (R1)"
+                },
+                {
+                  "bookName": "Kanetkar Y., “Let us C”, 4th Edition, BPB publication, New Delhi, 2002.(R2)"
+                }
+              ]
+            }
+          },
+          {
+            "subjectName": "Logical Organizations of Computers",
+            "type": "",
+            "code": "CA103",
+            "openCode": "BCA12",
+            "shortName": "loof loc",
+            "credit": 4,
+            "listOrder": 2,
+            "content": [
+              {
+                "module": "Module - I",
+                "content": "Digital Logic Circuits: Digital Computers, Logic Gates, Boolean algebra, Complement of a Function, Map Simplification, Product-of-sum simplification, Don't care conditions,Combinational Circuits, Half Adder, Full Adder, Flip-Flops, Sequential Circuits"
+              },
+              {
+                "module": "Module - II",
+                "content": "Digital Components: Integrated Circuits, Decoders, NAND Gate Decoder, Encoders,Multiplexers, Registers, Register with parallel load, Shift Registers, Bidirectional Shift register with parallel load, Binary Counters, Binary counter with parallel load, Memory Unit, RAM, ROM, Types of ROMs.<br>Data Representation: Data Types, Number System, Complements, Subtraction of Unsigned Numbers, Fixed-Point Representation, Floating-Point Representation, Other Binary Codes,Other Decimal Codes, Error Detection Codes"
+              },
+              {
+                "module": "Module - III",
+                "content": "Register Transfer and Micro-operations: Register Transfer language, Register Transfer Bus and Memory Transfers, Three-State Bus Buffers, Memory Transfer, Arithmetic Microoperations, Binary Adder, Binary Adder-Subtractor, Binary incrementer, Arithmetic Circuit Logic, Micro-operations, Shift Micro-operations, Hardware Implementation,Arithmetic Logic Shift Unit. "
+              },
+              {
+                "module": "Module - IV",
+                "content": "Central Processing Unit: Introduction, General Register Organization, Stack Organization,Register Stack, Memory Stack, Reverse Polish Notation, Evaluation of Arithmetic Expressions, Instruction Formats, Addressing Modes, Data Transfer and Manipulation,Program Control, Program Interrupt, Types of Interrupts, Reduced Instruction Set Computer (RISC). "
+              },
+              {
+                "module": "Module - V",
+                "content": "Memory Organization: Memory Hierarchy, Main Memory, RAM and ROM Chips,Memory Address Map, Memory Connection to CPU, Auxiliary Memory, Magnetic Disks and Tape, Associative Memory, Hardware Organization, March Logic, Read/Write Operation, Cache Memory, Associative Mapping, Direct Mapping, Set-Associative Mapping, Virtual Memory, Address Space and Memory Space, Address Mapping Using Pages, Associative Memory Page Table, Page Replacement, Memory Management Hardware."
+              }
+            ],
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Morris Mano M &Ciletti M.D., “Digital Design”, 4th Edition, PHI, 2008.(R1)"
+                },
+                {
+                  "bookName": "Hayes, J.P., “Computer Architecture and Organization”, 3rdEdition, McGraw-Hill, London, 2000, (R2)"
+                },
+                {
+                  "bookName": "Ram. B., “Computer Fundamentals: Architecture and Organization”, 3rdEdition, New Age International Publication, New Delhi, 2000.(R3)"
+                }
+              ]
+            }
+          },
+          {
+            "subjectName": "BASICS OF MATHEMATICS",
+            "type": "",
+            "spenCode": "BCA13",
+            "code": "CA105",
+            "shortName": "math",
+            "credit": 3,
+            "listOrder": 3,
+            "content": [
+              {
+                "module": "Module - I",
+                "content": "Sets and Relations: Sets and their representations, The empty set, Finite and Infinite set, Equal and equivalent set, Subset, power set, Universal set, Venn diagrams, Operations on sets, Complement of a set, Cartesian product, Relation, Inverse Relation, Composition of relation, Equivalence of relations and Classes."
+              },
+              {
+                "module": "Module - II",
+                "content": "Functions and Binary Operations: Functions as a set, Representation of function,Types of Functions, Functions applicable in Computer Science: Integer function,Factorial function, Absolute, Characteristic, Floor, Ceiling, Remainder, Boolean,Exponential, Logarithmic, Hashing functions and Binary operation on a set. "
+              },
+              {
+                "module": "Module - III",
+                "content": "Abstract Algebra: Group, Subgroup, Abelian group, Order of group, cyclic group and Simple theorems, Definition of Ring, Subring Integral domain and Field. "
+              },
+              {
+                "module": "Module - IV",
+                "content": "Matrices Algebra: Definition of matrix, Operations on matrices, Square matrix and its inverse, Inverse of a matrix by Row operation, Rank of matrix by Echelon form, Solution of a System of Linear Simultaneous equation by matrix method, Eigen value and Eigen vector.<br>Linear Algebra: Vector spaces, Subspaces, Span of a set, Linear Dependence,Independence"
+              },
+              {
+                "module": "Module - V",
+                "content": "Differential equation: Definition of Differential equation, Order and degree of a differential equation, Linear differential equation and Equation of Higher Order Linear differential equation with constant coefficients"
+              }
+            ],
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Vasishtha A.R., “Modern Algebra”, Krishna Prakashan Media (P) Ltd, Meerut, 2006.(T1) "
+                },
+                {
+                  "bookName": "Vasishtha A.R, “Matrices”, Krishna Prakashan Media (P) Ltd, Meerut, 2006. (T2) "
+                },
+                {
+                  "bookName": "Das H.K., “Advanced Engineering Mathematics”, S. Chand, 2009.(T3) "
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "KolmanB., BusbyR. C., and RossS. C., “Discrete Mathematical Structures”, 6th Edition, Prentice Hall of India, 2008.(R1)"
+                },
+                {
+                  "bookName": "ShethH., “Abstract Algebra”, PHI, 2009.(R2)"
+                },
+                {
+                  "bookName": "GrewalB. S., “Higher Engineering Mathematics”, Khanna Publishers, 2000.(R3)"
+                }
+              ]
+            }
+          },
+          {
+            "subjectName": " INTRODUCTION TO COMPUTER SCIENCE",
+            "type": "",
+            "code": "CA115",
+            "openCode": "BCA14",
+            "shortName": "itcs",
+            "credit": 3,
+            "listOrder": 4,
+            "content": [
+              {
+                "module": "Module - I",
+                "content": "Introduction to Computers: Definition, Characteristics of Computers, Classification of Computers, Applications of Computers.<br>Number Systems and Logic Gates: Number Systems, Conversion between Number bases, Arithmetic System. Signed and Unsigned Numbers, Concept of Overflow,Binary Coding, Logic Gates, Boolean Algebra and Combination of Logic Gates."
+              },
+              {
+                "module": "Module - II",
+                "content": "Computer Architecture: Central Processing Unit (CPU), Memory, Communication between various units of a Computer System, The Instruction Format, Instruction Set.<br>Computer Memory: Primary Memory Hierarchy, Random Access Memory, Types of RAM, Read only memory (ROM), Types of ROM., Classification of Secondary Storage Devices, Magnetic Tape, Magnetic Disk, Optical Disk."
+              },
+              {
+                "module": "Module - IsI",
+                "content": "Input Devices & Output Devices: Keyboard, Pointing Devices, Speech Recognition,Digital Camera, Scanners, Optical Scanners, output devices: Printers, Plotters,Computer Output Microfilm (COM), Monitors, Audio output, Projectors, Terminals.<br>Computer Program & Languages: Introduction, Developing a program, Algorithm,Flowchart, Pseudo Code(P-Code). Classification of Programming Languages,Generations of Programming Languages."
+              },
+              {
+                "module": "Module - IV",
+                "content": "Computer Software: Software: Definition, Relationship between Software and Hardware, Software Categories, System Software, Application Software.<br>Operating system: Definition of Operating system, Evolution of operating system,Types of Operating System, Functions of an Operating System, Modern Operating Systems"
+              },
+              {
+                "module": "Module - V",
+                "content": "Data Communication and Computer Network: Introduction of Data Communication, Transmission Media, Multiplexing, Switching, Computer Network's Topologies, Communication Protocols, Network Devices.<br>Internet Basics: Basic Internet Terms, InternetApplications, Electronic Mail: An Introduction how E-mail Works, Searching the Web (SearchEngines), Languages of Internet, Internet and Viruses."
+              }
+            ],
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "ITL Education Solution Limited, R & D Wing, Introduction to Computer Science, Pearson Education, 2004. "
+                },
+                {
+                  "bookName": "Mano M., “Computer System Architecture”, Prentice Hall of India, New Delhi, 1995.(T1)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Raja Raman V, Fundamentals of Computers, Second Edition, PHI, New Delhi, 1996. "
+                }
+              ]
+            }
+          }
+        ],
+        "lab": [
+          {
+            "subjectName": "C PROGRAMMING LAB",
+            "type": "",
+            "code": "CA112",
+            "openCode": "BCA15",
+            "shortName": "cpl",
+            "credit": 2,
+            "listOrder": 1,
+            "content": [
+              {
+                "question": "1. Write an interactive program that will read in a +ve integer value and determine the following <br> i) If the integer is a prime number <br> ii) If the integer is a Fibonacci number. <br><br>2. WAP in C to compute sinx = x - x3/3! + x5/3! - x7/7! ….. Continue adding successive terms in the series until the value of the next term becomes smaller (in magnitude) than 10-5. Test the program for x = 1, x = 2,and x = 3. In each case display the number of terms used to obtain the final answer<br><br>3. WAP to generate every 3rd integer beginning with I = 2 and continue for all integers that are less than 150.Calculate the sum of those integers that are evenly divisible by 5.<br><br>4. WAP to find whether a given year is a leap year or not. Modify it to generate a list of leap years between two year limits given by user.<br><br>5. WAP to display the following pattern:",
+                "image": "https://github.com/aiyu-ayaan/BIT-App-Data/blob/master/syllabus/images/bca15_1.png?raw=true"
+              },
+              {
+                "question": "6.Using Ternary / Conditional operator find the greatest among 3 numbers.<br><br>7. WAP to convert a decimal number into an equivalent number of the input base. Test your program for base 2,8,10 & 16.<br><br>8. WAP to read a number n, and print it out digit-by-digit, as a series of words. For e.g. 123 would be printed as “one two three”.<br><br>9. WAP to check whether any input +ve integer is palindrome or not.<br><br>10. WAP to simulate a simple calculator (+ - / * %) that takes two operands and an operator as input and displays the result.11. WAP to find the GCD of two input +ve integer numbers.<br><br>12. WAP to swap the values of two variables without using a third variable.<br><br>13. Read a line of mixed text, and then write it out with all lower case and uppercase letters reversed, all digits replaced by 0s and all other characters (non-letters and non- digits) replaced by '*'.<br><br>14. WAP to find the product of two matrices A and B. Display the source matrices and product matrix C in matrix format<br><br>15. WAP to find whether a given matrix is a triangular matrix or not.<br><br>16. WAP to find the transpose of a matrix. Display the source and the transposed matrix in matrix format.<br><br>17. Implement Prob. No. – 14 to 16 using functions for reading, manipulating and displaying the corresponding matrices in matrix form.<br><br>18. WAP to sort a list of strings alphabetically using a 2-dim. Character array.<br><br>19. WAP to display the row sum and the column – sum of an input 2- dim. Matrix. Display the source matrix with row and column sum.<br><br>20. Write a recursive function to calculate S = 2 + 4 + 6 + 8 + …… +2N. Implement the function in a complete C program.<br><br>21. Write a function that accepts two arguments an array and its size n. It performs Bubble up sort on the array elements. Using indirection operator '*' implement this in a complete C program. Display the source and the sorted array.<br><br>22. Using pointer, write a function that receives a character string and a character as argument. Delete all occurrences of this character in the string. The function should return corrected string with no holes.<br><br>23. Write a function for reading character string using pointer. Calculate the length of the string (without using strlen ()). Finally print the string in reverse order, using pointer.<br><br>24. Implement prob. No. 14 using pointers representation of 2 - dim. array.<br><br>25. Implement prob. No. 15 using pointer representation of 2 dim. array.<br><br>26. Implement prob. No. 16 using pointer representation of 2 dim. array.<br><br>27. WAP to sort a list of strings into alphabetical order using array of pointers.<br><br>28. Create records of 60 students, where each record has fields-name, roll, gpa and fees. Write a function update () to reduce the fees of those students who have obtained gpa greater than 8.5 by 25% of the original fees. Write a complete program to exercise this function in the main program and display all the records before and after updation.<br><br>29. Define a structure that describes a hotel. It should have members that include the name, address, grade,average room charge and number of rooms. Write a function to perform the following operations:<br>a) To print out hotels of a given grade in order of charges.<br>b) To print out hotels with room charges less than a given value.<br><br>30. WAP to concatenate the contents of two files into a third file.<br><br>31. WAP to copy the content of one file into another file. Names of both the files are to be input as command line arguments.",
+                "image": null
+              }
+            ],
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Jery R Hanly, “Problem solving and Program design in C”, Paerson Education, 7th Edition. (T1)"
+                },
+                {
+                  "bookName": "Byron Gottfried, “Schaum's Outline of Programming with C”, McGraw-Hill. (T2)"
+                },
+                {
+                  "bookName": "E. Balaguruswamy, Programming in ANSI C, Tata McGraw-Hill. (T3)"
+                },
+                {
+                  "bookName": "R.G.Dromey, How to Solve it by Computer, Pearson Education. (T4)"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Brian W. Kernighan and Dennis M. Ritchie, “The C Programming Language”, Prentice Hall India Learning Private Limited.(R1)"
+                }
+              ]
+            }
+          },
+          {
+            "subjectName": "OFFICE AUTOMATION TOOLS LAB",
+            "type": "",
+            "code": " CA212",
+            "openCode": "BCA16",
+            "shortName": "oat",
+            "credit": 2,
+            "listOrder": 1,
+            "content": [
+              {
+                "question": "Module - I COMPUTER SCIENCE & OPERATING SYSTEMS (WINDOWS/LINUX) <br><br>1. Types of Computer: Analog, Digital, and Hybrid type, Hardware, Software, System software, Application software, Stored Program Concept and Von Newman Architecture, Firm ware, Human ware, Stored Program Concept, Evolution of computers, Generation of computer.<br>2. Data Processing: Data collection, Classifications, Sorting and Merging,Processing, Summarizing Storing.<br>3. Data Organisation: Organization Data, Character, Field, Record, File,Database, Sequential Access, Random Access, Indexed Sequential Access.<br>4. Data Communication: Local Area Network, Wide Area Network,Satellite Communication, Internet.<br>5. Operating System: Introduction, Different Operating Systems, Loading and Quitting the Operating Systems Important DOS/Windows/Linux Commands.<br><br>Module - II WINDOWS/Linux<br><br> 1. Windows Introduction.<br>2. Concepts different Operating System GUI/CUI.<br>3. Desktop Icons. (Windows / Desktop Linux).<br>4. My Computer, Recycle Bin, Internet Explorer, Network Neighbourhood,My Documents.<br>5. Working with windows: How to create a Folder, Copying and cutting files, Renaming.<br>6. Programs, Favourites, Documents, Settings, Find, Run, Shut down.<br>7. APPLICATION ICONS.<br>8. Introduction to Output Devices<br><br>Module - III<br><br>PERSONAL COMPUTER SOFTWARE TOOLS (MS WORD, EXCEL AND POWERPOINT)<br><br>1. Open Office Word Processing using MS WORD: An introduction to MS-Word / ON INTRODUCTION TO WORD/Writer.<br>2. The Word work space, Starting and quitting word, Creating and Manipulating Various documents, Editing of proofing files, Merging documents and macros.<br>3. How to use Mouse and Menu, Working with dialog box.<br>4. Primary Command in File Menu: The Open Commands, The File name commands, The New commands, The Save, Save As, and Save all commands, The Close command, The Page setup, The Print commands, The Exit commands.<br>5. Edit Menu commands: The Cut, Copy, and Paste commands, The Undo and Repeat commands.<br>6. Format commands: Font commands, Paragraphcommands.<br>7. Other Menu: The view menu, The Insert menu, The tool menu, The table menu,The Window menu<br><br>Module - IV EXCEL<br><br>1. BUILDING A SIMPLE WORKSHEET.<br>2. Entering Text, Entering Values, Entering Dates and Times, Moving Around,Selecting Ranges, Using Menu, Using.<br>3. Tool Bar, Using Shortcut Menus, Changing Entries, Copying Entries, Moving Entries, Inserting and Deleting cells.<br>4. FORMATTING BASICS.<br>5. Changing Character Style, Changing Alignment, Changing Column Width.<br>6. WORKING WITH MULTIPLE WORKSHEET.<br>7. Copying entries between work books, Moving sheets between work books,Deleting sheets, Quitting Excel.<br>8. OPENING EXISTING WORKBOOKS.<br>9. Simple calculations, Doing Arithmetic, Totaling column of values, Naming cells and Ranges.<br>10. FORMATTING TEXT.<br>11. Displaying dollars and cents, Formatting decimal places, dates Format, Copying style and formats.<br>12. FORMULAS THAT MAKE DECISIONS.<br>13. Using the IF function, Using the nested IF function, Copying formulas.<br>14. Checking Spelling, Printing Worksheets, Preview Worksheets, Setting up the pages. <br>15. Sorting data, Keeping Leading in View, Finding records, Adding and deleting Records, Filtering Records.<br>16. Plotting charts, Sizing and moving charts, Updating charts, changing the chart type, Using chart auto format.<br>17. Creating Macros, Recording Macros, Running Macros.<br><br>Module - V POWER POINT<br><br>1. Main Features of Power Point.<br>2. MAKING THE PRESENTATION.<br>3. Creating Template with the Auto Content Wizard. Creating a Presentation with a Template. Creating a presentation from Scratch.<br>4. DIFFERENT VIEWS.<br>5. Normal Slide, Outline, Slide Sorter, Slide Show, Notes, Slide Master.<br>6. ANIMATION, ART AND SOUND.<br>7. Controlling Transitions between slides. Animating Different Parts of a slide. Inserting a Motion Clip. Including.<br>8. Sounds in slides.<br>9. INCLUDING GRAPHS, CHARTS, TABLES AND COLUMNS.<br>10. Organization Chart Slide, Creating a table Slide. Creating two column Slide.<br>Module 1: Showing A Presentation.<br>11. Rehearsing/ Timing a Presentation, Designation some slides as “Hidden”,Viewing Slides Anywhere in a Slide Show.<br>12. Techniques for Making a Show Livelier.<br>13. OFFICE CONNECTIONS.<br>14. Presenting with the help of other Office Programs Importing the text from a World Document.<br>15. Printing a Presentation",
+                "image": null
+              }
+            ],
+            "books": {
+              "textBooks": [
+                {
+                  "bookName": "Kumar Bittu, ”Mastering MS Office , V & S Publishers, Ist Edition, 2017"
+                }
+              ],
+              "referenceBooks": [
+                {
+                  "bookName": "Rajaraman V and AdabalaN . “Fundamentals of Computers” ,PHI, sixth Edition"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+}
