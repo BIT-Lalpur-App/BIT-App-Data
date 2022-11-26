@@ -1,3 +1,14 @@
 [
-    "Bca","Bba","Mca"
+    {
+        "courseName": "BCA",
+        "totalSemester": 6
+    },
+    {
+        "courseName": "BBA",
+        "totalSemester": 6
+    },
+    {
+        "courseName": "MCA",
+        "totalSemester": 4
+    }
 ]
