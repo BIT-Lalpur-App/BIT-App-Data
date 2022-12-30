@@ -1,1 +1,27 @@
-{}
+{
+  "semester": {
+    "id": "bca3",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING",
+          "code": "CA253",
+          "shortName": "pse",
+          "credit": 4
+        },
+        {
+          "subjectName": "WEB PROGRAMMING CONCEPT",
+          "code": "CA252",
+          "shortName": "wp",
+          "credit": 2
+        }
+      ],
+      "lab": [
+        
+      ],
+      "pe": [
+       
+      ]
+    }
+  }
+}
