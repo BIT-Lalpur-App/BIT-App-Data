@@ -147,6 +147,27 @@
         }
     ],
     "contributors": [
-
+        {
+            "des": "",
+            "linkedin": "https://www.linkedin.com/in/brishti-dey-048146222/",
+            "sno": 1,
+            "stackoverflow": "",
+            "github": "https://github.com/BrishtiDey",
+            "website": "",
+            "name": "Brishti Dey",
+            "instagram": "https://www.instagram.com/brishti.exe_",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2FBrishti.jpg?alt=media&token=2630ac8d-1fc8-47c7-b2fe-b50e1164799b"
+        },
+        {
+            "des": "",
+            "linkedin": "https://www.linkedin.com/in/surovi-banerjee-57612b24b/",
+            "sno": 2,
+            "stackoverflow": "",
+            "github": "https://github.com/Suro1901",
+            "website": "",
+            "name": "Surovi Banerjee",
+            "instagram": "https://www.instagram.com/surovibanerjee",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FSurovi.jpg?alt=media&token=7fdacc64-190d-473d-9374-f745402c99f8"
+        }
     ]
 }
