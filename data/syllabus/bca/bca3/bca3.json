@@ -1,3 +1,55 @@
 {
- 
+  "semester": {
+    "id": "bca3",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "Java Programming",
+          "code": "CA205",
+          "shortName": "java",
+          "credit": 3
+        },
+        {
+          "subjectName": "Database Management Systems",
+          "code": "CA203",
+          "shortName": "dbms",
+          "credit": 4
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "Java Programming Lab",
+          "code": "CA206",
+          "shortName": "java lab",
+          "credit": 2
+        },
+        {
+          "subjectName": "DBMS Lab",
+          "code": "CA204",
+          "shortName": "dbms lab",
+          "credit": 2
+        }
+      ],
+      "pe": [
+        {
+          "subjectName": "Introduction To Internet Technologies",
+          "code": "CA317",
+          "shortName": "it",
+          "credit": 4
+        },
+        {
+          "subjectName": "Internet Technologies Lab",
+          "code": "CA221",
+          "shortName": "it lab",
+          "credit": 2
+        },
+        {
+          "subjectName": "Visual Basic Lab",
+          "code": "CA221",
+          "shortName": "it lab",
+          "credit": 2
+        }
+      ]
+    }
+  }
 }
