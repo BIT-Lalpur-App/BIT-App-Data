@@ -1,4 +1,4 @@
-## <center><u>DATA STRUCTURES LAB</u></center> 
+## DATA STRUCTURES LAB
 
 ### SYLLABUS
 
@@ -48,16 +48,16 @@
 44. Program to implement binary search using arrays
 
 
-#### BOOKS
+### BOOKS
 
-### TEXT BOOKS:
+#### TEXT BOOKS:
 1. Baluja G S, “Data Structure through C”, Ganpat Rai Publication, New Delhi, 2015.
 2. Pai G A V, “Data Structures and Algorithms: Concepts, Techniques and Applications”, 2ndEdn, Tata
 McGraw-Hill, 2008.
 3. Horowitz E., Sahni S., Susan A., “Fundamentals of Data Structures in C”, 2nd Edition, University
 Press, 2010.
 
-### REFERENCE BOOKS:
+#### REFERENCE BOOKS:
 
 1. Tremblay J. P., Sorenson P. G, “An Introduction to Data Structures with Applications”, 2ndEdn,
 McGraw-Hill, Inc. New York, NY, USA.

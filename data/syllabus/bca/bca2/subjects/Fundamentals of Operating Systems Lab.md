@@ -1,4 +1,4 @@
-## <center><u>FUNDAMENTALS OF OPERATING SYSTEM LAB</u></center>
+## FUNDAMENTALS OF OPERATING SYSTEM LAB
 
 ### SYLLABUS
 
@@ -27,11 +27,11 @@
 21. WAP in c to find a PID no. of any Process.
 
 
-#### BOOKS
+### BOOKS
 
-### TEXT BOOK:
+#### TEXT BOOK:
 1. ManikantaPalakollu,“Practical System Programming with C: Pragmatic Example Applications in
 Linux and Unix-Based Operating Systems”,2020, Apress.
 
-### REFERENCE BOOK:
+#### REFERENCE BOOK:
 1. YashwantKanetkar, “Unix shell programming”, BPV Publications, Second Edition.

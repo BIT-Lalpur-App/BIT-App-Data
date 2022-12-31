@@ -1,4 +1,4 @@
-## <center><U>ENVIRONMENTAL SCIENCE</U></CENTER>
+## ENVIRONMENTAL SCIENCE
 
 ### Module – I
 
@@ -39,9 +39,9 @@ fuel rods-safe guards from exposure to radiations, international regulation, Man
 of radioactive wastes.
 
 
-#### BOOKS 
+### BOOKS 
 
-### TEXT BOOKS:
+#### TEXT BOOKS:
 1. A, K. De., “Environmental Chemistry”, New Age Publications India Ltd., 3rd Edition, 2008.(T1)
 2. R. Rajagopalan, “Environmental Studies: From Crisis to Future”, 3rd Edition, Oxford University Press, 
 2016.(T2)
@@ -51,7 +51,7 @@ of radioactive wastes.
 John Henry Press, 2002.(T4)
 5. S.C. Santra,“Environmental Science”, New Central Book Agency, 2011. (T5)
 
-### REFERENCE BOOKS: 
+#### REFERENCE BOOKS: 
 1. D.W. Conell, “Basic Concepts of Environmental Chemistry”, CRC Press.(R1)
 2. Peavy, H.S, Rowe, D.R, Tchobanoglous, G., “Environmental Engineering”, Mc-Graw Hill International. (R2)
 3. G.M. Masters & Wendell Ela, “Introduction to Environmental Engineering and Science”, PHI Publishers, 1991.(R3)

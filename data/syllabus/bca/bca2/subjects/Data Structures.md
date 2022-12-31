@@ -1,4 +1,4 @@
-## <center><u>Data Structures</u></center> 
+## Data Structures
 
 ### Module – I
 
