@@ -4,44 +4,51 @@
     "subjects": {
       "theory": [
         {
-          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
-          "code": "CA171",
-          "shortName": "CPL",
-          "credit": 3
+          "subjectName": "Data Structure",
+          "code": "CA155",
+          "shortName": "DS",
+          "credit": 4
         },
         {
-          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
-          "code": "CA171",
-          "shortName": "CPL",
-          "credit": 3
+          "subjectName": "Discrete Mathematics ",
+          "code": "CA163",
+          "shortName": "Dis. Math",
+          "credit": 4
         },
         {
-          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
-          "code": "CA171",
-          "shortName": "CPL",
-          "credit": 3
+          "subjectName": "Fundamentals of Operating System",
+          "code": "CA165",
+          "shortName": "FOS",
+          "credit": 4
         },
         {
-          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
-          "code": "CA171",
-          "shortName": "CPL",
-          "credit": 3
-        },
-        {
-          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
-          "code": "CA171",
-          "shortName": "CPL",
-          "credit": 3
-        },
-        {
-          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
-          "code": "CA171",
-          "shortName": "CPL",
-          "credit": 3
+          "subjectName": "Environmental Science ",
+          "code": "CE101",
+          "shortName": "EVS",
+          "credit": 2
+        
         }
+        
       ],
       "lab": [
-       
+        {
+          "subjectName": "Data Structure Lab",
+          "code": "CA156",
+          "shortName": "DSL",
+          "credit": 2
+        },
+        {
+          "subjectName": "Fundamentals of Operating Systems Lab",
+          "code": "CA166",
+          "shortName": "FOSL",
+          "credit": 2
+        },
+        {
+          "subjectName": "MATLAB Programming Lab ",
+          "code": "CA168",
+          "shortName": "MPL",
+          "credit": 2
+        }
       ],
       "pe": [
         
