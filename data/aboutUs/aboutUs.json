@@ -25,28 +25,6 @@
     ],
     "managers": [
         {
-            "des": " Jr. Manager  & PR",
-            "linkedin": "https://www.linkedin.com/in/brishti-dey-048146222/",
-            "sno": 2,
-            "stackoverflow": "",
-            "github": "https://github.com/BrishtiDey",
-            "website": "",
-            "name": "Brishti Dey",
-            "instagram": "https://www.instagram.com/brishti.exe_",
-            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2FBrishti.jpg?alt=media&token=2630ac8d-1fc8-47c7-b2fe-b50e1164799b"
-        },
-        {
-            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2Fpiyushkhandelia_4547351131_1_20220523095202305.jpg?alt=media&token=9db54c52-f660-4f5b-8f21-dd431a28dbeb",
-            "des": "Managing Head & PR",
-            "github": "https://github.com/PiyushKhandelia",
-            "instagram": "https://www.instagram.com/eclipse_piyush/",
-            "stackoverflow": "https://stackoverflow.com/users/19642842/piyush-khandelia",
-            "sno": 1,
-            "website": "",
-            "linkedin": "https://www.linkedin.com/in/piyush-khandelia-a0068b199",
-            "name": "Piyush "
-        },
-        {
             "sno": 9,
             "instagram": "https://www.instagram.com/riyasaha._/",
             "des": "Bizwit",
@@ -147,10 +125,22 @@
         }
     ],
     "contributors": [
+      
         {
-            "des": "",
-            "linkedin": "https://www.linkedin.com/in/brishti-dey-048146222/",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2Fpiyushkhandelia_4547351131_1_20220523095202305.jpg?alt=media&token=9db54c52-f660-4f5b-8f21-dd431a28dbeb",
+            "des": "Managing Head & PR",
+            "github": "https://github.com/PiyushKhandelia",
+            "instagram": "https://www.instagram.com/eclipse_piyush/",
+            "stackoverflow": "https://stackoverflow.com/users/19642842/piyush-khandelia",
             "sno": 1,
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/piyush-khandelia-a0068b199",
+            "name": "Piyush "
+        },
+        {
+            "des": " Jr. Manager  & PR",
+            "linkedin": "https://www.linkedin.com/in/brishti-dey-048146222/",
+            "sno": 2,
             "stackoverflow": "",
             "github": "https://github.com/BrishtiDey",
             "website": "",
@@ -161,7 +151,7 @@
         {
             "des": "",
             "linkedin": "https://www.linkedin.com/in/surovi-banerjee-57612b24b/",
-            "sno": 2,
+            "sno": 3,
             "stackoverflow": "",
             "github": "https://github.com/Suro1901",
             "website": "",
