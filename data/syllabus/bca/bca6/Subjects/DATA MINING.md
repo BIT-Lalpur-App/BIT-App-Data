@@ -1,4 +1,4 @@
-## <center><u>DATA MINING</u></center>
+## DATA MINING
 
 ### Module – I
 

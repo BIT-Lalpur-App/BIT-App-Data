@@ -1,1 +1,41 @@
-{}
+{
+  "semester": {
+    "id": "bca6",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "DATA MINING",
+          "code": "CA355",
+          "shortName": "DM",
+          "credit": 3
+        },
+        {
+          "subjectName": "DISTRIBUTED COMPUTING",
+          "code": "CA356",
+          "shortName": "DC",
+          "credit": 3
+        },
+        {
+          "subjectName": "DISTRIBUTED DATABASE SYSTEMS",
+          "code": "CA325",
+          "shortName": "DDS",
+          "credit": 4
+        },
+        {
+          "subjectName": "UNIX AND SHELL PROGRAMMING ",
+          "code": "CA328",
+          "shortName": "USP",
+          "credit": 4
+        
+        }
+        
+      ],
+      "lab": [
+        
+      ],
+      "pe": [
+        
+      ]
+    }
+  }
+}
