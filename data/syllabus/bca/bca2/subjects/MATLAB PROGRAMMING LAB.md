@@ -1,3 +1,7 @@
-## MATLAB PROGRAMMING LAB
+## <center><u>MATLAB PROGRAMMING LAB</u></center>
+
+### Syllabus
+
+
 
 
