@@ -1,6 +1,18 @@
+<<<<<<< Updated upstream
 ## PRINCIPLES OF SOFTWARE ENGINEERING
 
 ### Module – I
+=======
+<span style="color:blue;background-color:yellow;  border: 3px solid red;border-collapse: collapse;font-family:WildWest;"> <u>PRINCIPLES OF SOFTWARE ENGINEERING</u></span>
+
+---
+
+<font face = "Bedrock">
+## <font color="brown">Syllabus</font>
+
+---
+## Module – I
+>>>>>>> Stashed changes
 `Introduction:` The Software Engineering Discipline – Evolution and Impact, Programs 
 vs. Software Products, Why Study Software Engineering? Emergence of Software 
 Engineering, Notable Changes in Software Development Practices and Computer 
@@ -36,9 +48,22 @@ Software Process, Six Sigma
 ### Module –V
 `Software Maintenance:` Characteristics, S/W Reverse Engineering, S/W Maintenance 
 Process Models, Estimation of Maintenance Cost.
-8
+
+---
 #### Text Books: 
+
+---
 1. Rajib Mall, Fundamentals of Software Engineering, 4th Edition, PHI, 2014. 
+
+---
 #### Reference Books: 
+
+---
 1. Pankaj Jalote, An Integrated Approach to Software Engineering, 3rd Edition, Narosa, 2005. 
+<<<<<<< Updated upstream
 2. Ian Sommerville, Software Enginnering, 9th Edition, Pearson Education, 2011. 
+=======
+2. Ian Sommerville, Software Enginnering, 9th Edition, Pearson Education, 2011. 3</font>
+   
+   ---
+>>>>>>> Stashed changes
