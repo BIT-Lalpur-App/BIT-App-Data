@@ -10,19 +10,19 @@
           "credit": 4
         },
         {
-          "subjectName": "Discrete Mathematics ",
+          "subjectName": "DISCRETE MATHEMATICS",
           "code": "CA163",
           "shortName": "Dis. Math",
           "credit": 4
         },
         {
-          "subjectName": "Fundamentals of Operating System",
+          "subjectName": "Fundamental Of Operating System",
           "code": "CA165",
           "shortName": "FOS",
           "credit": 4
         },
         {
-          "subjectName": "Environmental Science ",
+          "subjectName": "ENVIRONMENTAL SCIENCE",
           "code": "CE101",
           "shortName": "EVS",
           "credit": 2
@@ -32,19 +32,20 @@
       ],
       "lab": [
         {
-          "subjectName": "Data Structure Lab",
+          "subjectName": "Data Structures Lab",
           "code": "CA156",
           "shortName": "DSL",
           "credit": 2
         },
         {
-          "subjectName": "Fundamentals of Operating Systems Lab",
+          "subjectName": "Fundamental Of Operating System",
           "code": "CA166",
           "shortName": "FOSL",
           "credit": 2
-        },
+        }
+        ,
         {
-          "subjectName": "MATLAB Programming Lab ",
+          "subjectName": "MATLAB PROGRAMMING LAB",
           "code": "CA168",
           "shortName": "MPL",
           "credit": 2

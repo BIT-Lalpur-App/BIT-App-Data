@@ -1,4 +1,4 @@
-## <center><u>Fundamental Of Operating System</u></center>
+## Fundamental Of Operating System
 
 ### Module – I
 
