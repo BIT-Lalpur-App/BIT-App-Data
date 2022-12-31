@@ -1,3 +1,51 @@
 {
-  
+  "semester": {
+    "id": "bca2",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
+          "code": "CA171",
+          "shortName": "CPL",
+          "credit": 3
+        },
+        {
+          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
+          "code": "CA171",
+          "shortName": "CPL",
+          "credit": 3
+        },
+        {
+          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
+          "code": "CA171",
+          "shortName": "CPL",
+          "credit": 3
+        },
+        {
+          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
+          "code": "CA171",
+          "shortName": "CPL",
+          "credit": 3
+        },
+        {
+          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
+          "code": "CA171",
+          "shortName": "CPL",
+          "credit": 3
+        },
+        {
+          "subjectName": "CONCEPTS OF PROGRAMMING LANGUAGES",
+          "code": "CA171",
+          "shortName": "CPL",
+          "credit": 3
+        }
+      ],
+      "lab": [
+       
+      ],
+      "pe": [
+        
+      ]
+    }
+  }
 }

@@ -41,6 +41,7 @@ languages
 #### BOOKS
 
 ### TEXT BOOKS:
+
 1. Elliott Mendelson; Introduction to Mathematical Logic; Chapman & Hall; London(1997)
 2. J.H.Gallier; Logic for Computer Science; John.Wiley& Sons (1987).
 3. N. Deo; Graph Theory with Application to Engineering and Computer Science; Prentice Hall of
@@ -50,4 +51,5 @@ January 2006.
 5. S B Malik, Basic Number Theory, Vikash Publishing House Pvt. Ltd., 2nd Revised Edition 2013
 
 ### REFERENCE BOOKS:
+
 1. Discrete Structure & Graph Theory, Rathore, EPH 
