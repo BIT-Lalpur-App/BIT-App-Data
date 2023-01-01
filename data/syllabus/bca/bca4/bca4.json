@@ -17,7 +17,18 @@
         }
       ],
       "lab": [
-        
+        {
+          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING LAB",
+          "code": "CA254",
+          "shortName": "psel",
+          "credit": 2
+        },
+        {
+          "subjectName": "WEB PROGRAMMING CONCEPT LAB",
+          "code": "CA252",
+          "shortName": "wpl",
+          "credit": 2
+        }
       ],
       "pe": [
        
