@@ -5,6 +5,7 @@
 ## <font color="brown">Syllabus</font>
 
 ---
+
 1. India is a large country. Different regions observe variations in climate. The spoken language of one 
 state is quite different from that of another. They wear different types of garments. They celebrate different 
 festivals and perform varied religious rites. People belonging to diverse cultures belong to different religious 
@@ -135,4 +136,4 @@ marks input shall be taken by textbox in the webpage.
 ---
 1. Ivan Bay Ross, Web Enable Commercial Application Using HTML, DHTML, BPB Publication.
 
----
+---</font>
