@@ -1,11 +1,10 @@
 
 <div style=" border: 3px solid purple;">
 
-<span style="color:blue;background-color:yellow;  border: 3px solid red;border-collapse: collapse;font-family:WildWest;font-size:1cm"> <u> WEB PROGRAMMING CONCEPTS </u></span>
+## WEB PROGRAMMING 
 
 ---
 <font face = "Bedrock" >
-<span style="fo>Syllabus</span>
 
 ---
 ## Module – I

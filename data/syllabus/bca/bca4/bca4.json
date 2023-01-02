@@ -1,6 +1,6 @@
 {
   "semester": {
-    "id": "bca3",
+    "id": "bca4",
     "subjects": {
       "theory": [
         {
@@ -14,6 +14,12 @@
           "code": "CA252",
           "shortName": "wp",
           "credit": 2
+        },
+        {
+          "subjectName": "Soft Computing",
+          "code": "CA315",
+          "shortName": "sc",
+          "credit": 4
         }
       ],
       "lab": [
@@ -24,7 +30,7 @@
           "credit": 2
         },
         {
-          "subjectName": "WEB PROGRAMMING CONCEPT LAB",
+          "subjectName": "WEB PROGRAMMING CONCEPTS LAB",
           "code": "CA252",
           "shortName": "wpl",
           "credit": 2

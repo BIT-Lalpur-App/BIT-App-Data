@@ -1,15 +1,10 @@
 
 <div style=" border: 3px solid purple;">
-<h1><span style="color:green;background-color:yellow;  border: 3px solid red;border-collapse: collapse;font-family:WildWest;font-size:1cm"> <u>PRINCIPLES OF SOFTWARE ENGINEERING</u></span></h1>
 
-<span style="color:blue;background-color:yellow;  border: 3px solid red;border-collapse: collapse;font-family:WildWest;"> <u>PRINCIPLES OF SOFTWARE ENGINEERING</u></span>
-
-
-<font face = "Bedrock">
- <span style=" font-size:1cm;color:brown;"><b>Syllabus</b></span>
+## PRINCIPLES OF SOFTWARE ENGINEERING
 
 
-## Module – I
+### Module – I
 
 `Introduction:` The Software Engineering Discipline – Evolution and Impact, Programs 
 vs. Software Products, Why Study Software Engineering? Emergence of Software 

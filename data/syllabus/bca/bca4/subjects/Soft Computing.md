@@ -1,12 +1,9 @@
 <div style=" border: 3px solid purple;">
 
 
-<span style="color:#c6603f;background-color:#dbf0e0;  border: 3px solid green;border-collapse: collapse;font-family:WildWest;font-size:1cm"> <u> WEB PROGRAMMING CONCEPTS </u></span>
+### WEB PROGRAMMING CONCEPTS 
 
 ---
-<font face = "Bedrock" >
-<span style="font-size:1cm;color:#7b3380;">Syllabus</span>
-
 ---
 ## Module – I
 Fuzzy Set Theory: Basic Definition and Terminology, Set Theoretic Operations, Fuzzy 

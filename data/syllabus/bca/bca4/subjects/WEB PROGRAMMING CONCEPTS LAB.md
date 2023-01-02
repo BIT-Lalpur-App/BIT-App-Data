@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+### WEB PROGRAMMING CONCEPTS LAB
+
 <style>
     pre {
         box-sizing: border-box;
@@ -24,11 +18,6 @@
     }
 </style>
 <body style="border: 2px solid blue; font-family:cursive">
-<span style="color:rgb(25, 25, 113);background-color:rgb(235, 235, 191);  border: 3px double red;border-collapse: collapse;font-family:monospace; font-size:1cm"> <u>WEB PROGRAMMING CONCEPTS LAB</u></span>
-</h1>
-<hr>
-<span style="font-size:larger;color:rgb(8, 77, 54)">Syllabus</span>
-    <hr>
 <div>
 
 1. India is a large country. Different regions observe variations in climate. The spoken language of one 
@@ -127,7 +116,7 @@ marks input shall be taken by textbox in the webpage. <br>
 Contents of 1st, 3rd, 5th, 7th frame should be same again 2nd, 4th, 6th and 8th should be same. <br>
 10.  Create a webpage to take input of a string and check whether it is a palindrome or not. <br>
 11.  Write a program using JavaScript to display a structure as given below: <br>
-<pre>
+<pre style="color:white">
 *
 * *
 * * *
@@ -166,5 +155,3 @@ marks input shall be taken by textbox in the webpage. <br>
 1. Ivan Bay Ross, Web Enable Commercial Application Using HTML, DHTML, BPB Publication.
 <hr>
 </DIV>
-</body>
-</html>

@@ -8,7 +8,7 @@
 </head>
 <body style="font-family: cursive;border:2px solid rgb(33, 47, 33)">
     
-<span style="color:rgb(7, 7, 81);background-color:rgb(246, 206, 206);font-size: 1cm ;  border: 3px solid rgb(8, 101, 26);border-collapse: collapse;font-family:WildWest;"> <u> PRINCIPLES OF SOFTWARE ENGINEERING LAB </u></span>
+## PRINCIPLES OF SOFTWARE 
 <hr>
 <span style="font-size: larger;">Syllabus</span>
 <hr>
