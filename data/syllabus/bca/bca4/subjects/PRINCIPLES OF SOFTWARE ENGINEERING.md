@@ -1,12 +1,16 @@
+
+<div style=" border: 3px solid purple;">
+<h1><span style="color:green;background-color:yellow;  border: 3px solid red;border-collapse: collapse;font-family:WildWest;font-size:1cm"> <u>PRINCIPLES OF SOFTWARE ENGINEERING</u></span></h1>
+
 <span style="color:blue;background-color:yellow;  border: 3px solid red;border-collapse: collapse;font-family:WildWest;"> <u>PRINCIPLES OF SOFTWARE ENGINEERING</u></span>
 
----
 
 <font face = "Bedrock">
-## <font color="brown">Syllabus</font>
+ <span style=" font-size:1cm;color:brown;"><b>Syllabus</b></span>
 
----
+
 ## Module – I
+
 `Introduction:` The Software Engineering Discipline – Evolution and Impact, Programs 
 vs. Software Products, Why Study Software Engineering? Emergence of Software 
 Engineering, Notable Changes in Software Development Practices and Computer 
@@ -52,8 +56,9 @@ Process Models, Estimation of Maintenance Cost.
 ---
 #### Reference Books: 
 
----
 1. Pankaj Jalote, An Integrated Approach to Software Engineering, 3rd Edition, Narosa, 2005. 
-2. Ian Sommerville, Software Enginnering, 9th Edition, Pearson Education, 2011. 3</font>
+2. Ian Sommerville, Software Enginnering, 9th Edition, Pearson Education, 2011. 
+
+3. Ian Sommerville, Software Enginnering, 9th Edition, Pearson Education, 2011. 3</font>
    
-   ---
+</div>
