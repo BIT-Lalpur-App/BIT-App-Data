@@ -1,12 +1,5 @@
-
-<div style=" border: 3px solid purple;">
-
 ## WEB PROGRAMMING 
 
----
-<font face = "Bedrock" >
-
----
 ## Module – I
 `Introduction to Internet and HTML:` Introduction to Internet, Internet Services, Web 
 Server, Web Client, Domain Registration, Internet Security. HTML Tags, HTML 
@@ -47,7 +40,6 @@ Displaying PHP Output, Managing PHP Program Flow. Planning a PHP Web Application
 Creating and Using a Logon Window, Managing System Data, Updating a PHP Web 
 Application.
 
-
 ## TEXT BOOKS 
 
 1. Xavier C., “Web Technology & Design”, New Age International Publishers, 1stEdn, New Delhi, 2004. 
@@ -59,7 +51,4 @@ Morrissey Bill, “The Web Warrior Guide to Web Programming”, India Edition, T
 
 ---
 1. Ross Ivan Bay, “Web Enable Commercial Application Using HTML, DHTML”, BPB Publication.
-</font>
-
-</div>
-
+̥

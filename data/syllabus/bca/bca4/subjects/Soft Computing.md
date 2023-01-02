@@ -1,9 +1,6 @@
-<div style=" border: 3px solid purple;">
 
+### Soft Computing
 
-### WEB PROGRAMMING CONCEPTS 
-
----
 ---
 ## Module – I
 Fuzzy Set Theory: Basic Definition and Terminology, Set Theoretic Operations, Fuzzy 
@@ -48,7 +45,5 @@ Gaps in the Syllabus (to meet Industry/Profession requirements)
 1. Application of soft computing to develop and design the adaptive controllers. 
 2. Application of fuzzy inference system for prediction and modelling to complex problems. 
 
-</font>
 
-</div>
 

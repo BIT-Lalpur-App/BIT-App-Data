@@ -17,7 +17,7 @@
         color: #333;
     }
 </style>
-<body style="border: 2px solid blue; font-family:cursive">
+<body style="font-family:cursive">
 <div>
 
 1. India is a large country. Different regions observe variations in climate. The spoken language of one 

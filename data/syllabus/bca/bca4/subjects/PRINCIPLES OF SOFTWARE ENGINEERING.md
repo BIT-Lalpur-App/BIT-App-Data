@@ -1,6 +1,4 @@
 
-<div style=" border: 3px solid purple;">
-
 ## PRINCIPLES OF SOFTWARE ENGINEERING
 
 
@@ -56,4 +54,3 @@ Process Models, Estimation of Maintenance Cost.
 
 3. Ian Sommerville, Software Enginnering, 9th Edition, Pearson Education, 2011. 3</font>
    
-</div>

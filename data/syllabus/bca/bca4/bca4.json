@@ -34,6 +34,12 @@
           "code": "CA252",
           "shortName": "wpl",
           "credit": 2
+        },
+        {
+          "subjectName": "Soft Computing Labq",
+          "code": "CA315",
+          "shortName": "scl",
+          "credit": 4
         }
       ],
       "pe": [
