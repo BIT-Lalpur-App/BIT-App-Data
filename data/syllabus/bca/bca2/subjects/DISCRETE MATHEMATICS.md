@@ -1,4 +1,4 @@
-## <center><u>DISCRETE MATHEMATICS</u></center>
+## DISCRETE MATHEMATICS
 
 ### Module – I
 

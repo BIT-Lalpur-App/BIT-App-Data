@@ -1,6 +1,6 @@
 {
   "semester": {
-    "id": "bca3",
+    "id": "bca4",
     "subjects": {
       "theory": [
         {
@@ -14,10 +14,33 @@
           "code": "CA252",
           "shortName": "wp",
           "credit": 2
+        },
+        {
+          "subjectName": "Soft Computing",
+          "code": "CA315",
+          "shortName": "sc",
+          "credit": 4
         }
       ],
       "lab": [
-        
+        {
+          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING LAB",
+          "code": "CA254",
+          "shortName": "psel",
+          "credit": 2
+        },
+        {
+          "subjectName": "WEB PROGRAMMING CONCEPTS LAB",
+          "code": "CA252",
+          "shortName": "wpl",
+          "credit": 2
+        },
+        {
+          "subjectName": "Soft Computing Lab",
+          "code": "CA315",
+          "shortName": "scl",
+          "credit": 4
+        }
       ],
       "pe": [
        
