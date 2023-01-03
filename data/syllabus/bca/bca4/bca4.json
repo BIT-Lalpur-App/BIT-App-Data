@@ -4,6 +4,12 @@
     "subjects": {
       "theory": [
         {
+          "subjectName": "INTRODUCTION TO COMPUTER ALGORITHMS",
+          "code": "CA207",
+          "shortName": "ica algo",
+          "credit": 4
+        },
+        {
           "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING",
           "code": "CA253",
           "shortName": "pse",
