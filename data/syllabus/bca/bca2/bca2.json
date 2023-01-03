@@ -22,6 +22,12 @@
           "credit": 4
         },
         {
+          "subjectName": "MATHEMATICS FOR COMPUTING",
+          "code": "CA169",
+          "shortName": "MFC",
+          "credit": 3
+        },
+        {
           "subjectName": "ENVIRONMENTAL SCIENCE",
           "code": "CE101",
           "shortName": "EVS",
