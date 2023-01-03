@@ -1,1 +1,47 @@
-{}
+{
+  "semester": {
+    "id": "bca2",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "ORGANISATIONAL BEHAVIOUR",
+          "code": "MT107",
+          "shortName": "OB",
+          "credit": 3
+        },
+        {
+          "subjectName": "Quantitative Techniques in Management",
+          "code": "MT108",
+          "shortName": "QTM",
+          "credit": 4
+        },
+        {
+          "subjectName": "Introduction to Materials Management and Production Management",
+          "code": "MT111",
+          "shortName": "IMMPM",
+          "credit": 3
+        },
+        {
+          "subjectName": "Business Economics",
+          "code": "MT112",
+          "shortName": "BE",
+          "credit": 3
+        },
+        {
+          "subjectName": "Basics of Financial Management",
+          "code": "MT113",
+          "shortName": "BFM",
+          "credit": 3
+        },
+        {
+          "subjectName": "Principles of Marketing",
+          "code": "MT134",
+          "shortName": "PM",
+          "credit": 3
+        }
+      ],
+      "lab": [],
+      "pe": []
+    }
+  }
+}
