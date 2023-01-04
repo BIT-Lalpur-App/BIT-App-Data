@@ -28,6 +28,12 @@
           "credit": 3
         },
         {
+          "subjectName": "Concepts of Programming Languages",
+          "code": "CA171",
+          "shortName": "Cpl",
+          "credit": 3
+        },
+        {
           "subjectName": "ENVIRONMENTAL SCIENCE",
           "code": "CE101",
           "shortName": "EVS",
