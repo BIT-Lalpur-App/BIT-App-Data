@@ -5,19 +5,19 @@
       "theory": [
         {
           "subjectName": "INTRODUCTION TO COMPUTER ALGORITHMS",
-          "code": "CA207",
+          "code": "CA255",
           "shortName": "ica algo",
           "credit": 4
         },
         {
-          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING",
-          "code": "CA253",
+          "subjectName": "SOFTWARE ENGINEERING",
+          "code": "CA258",
           "shortName": "pse",
-          "credit": 4
+          "credit": 3
         },
         {
           "subjectName": "WEB PROGRAMMING CONCEPT",
-          "code": "CA252",
+          "code": "CA256",
           "shortName": "wp",
           "credit": 2
         },
@@ -30,20 +30,20 @@
       ],
       "lab": [
         {
-          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING LAB",
-          "code": "CA254",
-          "shortName": "psel",
+          "subjectName": "SOFTWARE ENGINEERING LAB",
+          "code": "CA259",
+          "shortName": "se;",
           "credit": 2
         },
         {
           "subjectName": "WEB PROGRAMMING CONCEPTS LAB",
-          "code": "CA252",
+          "code": "CA257",
           "shortName": "wpl",
           "credit": 2
         },
         {
           "subjectName": "Soft Computing Lab",
-          "code": "CA315",
+          "code": "CA282",
           "shortName": "scl",
           "credit": 4
         }
