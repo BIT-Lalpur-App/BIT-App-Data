@@ -1,1 +1,59 @@
-{}
+{
+    "semester": {
+        "id": "bca6",
+        "subjects": {
+            "theory": [
+                {
+                    "subjectName": "Strategic Management",
+                    "code": "MT303",
+                    "shortName": "SM",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Corporate Taxation",
+                    "code": "MT306",
+                    "shortName": "CT",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Equity and Debt Market",
+                    "code": "MT309",
+                    "shortName": "EDM",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Industrial Relation",
+                    "code": "MT322",
+                    "shortName": "IR",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Performance & Compensation Management",
+                    "code": "MT325",
+                    "shortName": "PCM",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Principles of Marketing",
+                    "code": "MT134",
+                    "shortName": "PM",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Integrated Marketing Communication",
+                    "code": "MT134",
+                    "shortName": "IMC",
+                    "credit": 3
+                },{
+                    "subjectName": "International Marketing",
+                    "code": "MT134",
+                    "shortName": "IM",
+                    "credit": 3
+                }
+                
+            ],
+            "lab": [],
+            "pe": []
+        }
+    }
+}
