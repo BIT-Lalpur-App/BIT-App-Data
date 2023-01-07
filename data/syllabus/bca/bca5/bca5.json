@@ -1,1 +1,38 @@
-{}
+{
+    "semester": {
+        "id": "bca5",
+        "subjects": {
+            "theory": [
+                {
+                    "subjectName": "COMPUTER GRAPHICS",
+                    "code": "CA301",
+                    "credit": 3,
+                    "sortName": "CG"
+                },
+                {
+                    "subjectName": "INTRODUCTION TO COMPUTER NETWORKS",
+                    "code": "CA303",
+                    "credit": 3,
+                    "sortName": "ITCN"
+                }
+            ],
+            "lab": [
+                {
+                    "subjectName": "COMPUTER GRAPHICS LAB",
+                    "code": "CA302",
+                    "shortName": "java lab",
+                    "credit": 2
+                },
+                {
+                    "subjectName": "COMPUTER NETWORKS LAB",
+                    "code": "CA308",
+                    "shortName": "dbms lab",
+                    "credit": 2
+                }
+            ],
+            "pe": [
+
+            ]
+        }
+    }
+}

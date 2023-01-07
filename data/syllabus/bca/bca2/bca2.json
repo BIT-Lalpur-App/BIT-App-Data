@@ -1,3 +1,71 @@
 {
-  
+  "semester": {
+    "id": "bca2",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "Data Structures",
+          "code": "CA155",
+          "shortName": "DS",
+          "credit": 4
+        },
+        {
+          "subjectName": "DISCRETE MATHEMATICS",
+          "code": "CA163",
+          "shortName": "Dis. Math",
+          "credit": 4
+        },
+        {
+          "subjectName": "Fundamental Of Operating System",
+          "code": "CA165",
+          "shortName": "FOS",
+          "credit": 4
+        },
+        {
+          "subjectName": "MATHEMATICS FOR COMPUTING",
+          "code": "CA169",
+          "shortName": "MFC",
+          "credit": 3
+        },
+        {
+          "subjectName": "Concepts of Programming Languages",
+          "code": "CA171",
+          "shortName": "Cpl",
+          "credit": 3
+        },
+        {
+          "subjectName": "ENVIRONMENTAL SCIENCE",
+          "code": "CE101",
+          "shortName": "EVS",
+          "credit": 2
+        
+        }
+        
+      ],
+      "lab": [
+        {
+          "subjectName": "Data Structures Lab",
+          "code": "CA156",
+          "shortName": "DSL",
+          "credit": 2
+        },
+        {
+          "subjectName": "Fundamentals of Operating Systems Lab",
+          "code": "CA166",
+          "shortName": "FOSL",
+          "credit": 2
+        }
+        ,
+        {
+          "subjectName": "MATLAB PROGRAMMING LAB",
+          "code": "CA168",
+          "shortName": "MPL",
+          "credit": 2
+        }
+      ],
+      "pe": [
+        
+      ]
+    }
+  }
 }

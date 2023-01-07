@@ -1,23 +1,52 @@
 {
   "semester": {
-    "id": "bca3",
+    "id": "bca4",
     "subjects": {
       "theory": [
         {
-          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING",
-          "code": "CA253",
-          "shortName": "pse",
+          "subjectName": "INTRODUCTION TO COMPUTER ALGORITHMS",
+          "code": "CA255",
+          "shortName": "ica algo",
           "credit": 4
         },
         {
+          "subjectName": "SOFTWARE ENGINEERING",
+          "code": "CA258",
+          "shortName": "pse",
+          "credit": 3
+        },
+        {
           "subjectName": "WEB PROGRAMMING CONCEPT",
-          "code": "CA252",
+          "code": "CA256",
           "shortName": "wp",
           "credit": 2
+        },
+        {
+          "subjectName": "Soft Computing",
+          "code": "CA315",
+          "shortName": "sc",
+          "credit": 4
         }
       ],
       "lab": [
-        
+        {
+          "subjectName": "SOFTWARE ENGINEERING LAB",
+          "code": "CA259",
+          "shortName": "se;",
+          "credit": 2
+        },
+        {
+          "subjectName": "WEB PROGRAMMING CONCEPTS LAB",
+          "code": "CA257",
+          "shortName": "wpl",
+          "credit": 2
+        },
+        {
+          "subjectName": "Soft Computing Lab",
+          "code": "CA282",
+          "shortName": "scl",
+          "credit": 4
+        }
       ],
       "pe": [
        
