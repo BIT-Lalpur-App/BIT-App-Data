@@ -1,5 +1,5 @@
 
-![Preview alt](/preview.png)
+![Preview alt](https://aiyu-ayaan.github.io/BIT-App-Data/preview.png)
 
 **Privacy Policy**
 
