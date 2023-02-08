@@ -4,42 +4,42 @@
         "courseName" : "BCA",
         "sem" : "A",
         "sec": "2",
-        "imageLink" : "aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_2_A.jpg"
+        "imageLink" : "https://aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_2_A.jpg"
     },
     {
         "id": 2,
         "courseName": "BCA",
         "sem": "C",
         "sec": "2",
-        "imageLink": "aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_2_C.jpg"
+        "imageLink": "https://aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_2_C.jpg"
     },
     {
         "id": 3,
         "courseName": "BCA",
         "sem": "A",
         "sec": "4",
-        "imageLink": "aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_4_A.jpg"
+        "imageLink": "https://aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_4_A.jpg"
     },
     {
         "id": 4,
         "courseName": "BCA",
         "sem": "C",
         "sec": "4",
-        "imageLink": "aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_4_C.jpg"
+        "imageLink": "https://aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_4_C.jpg"
     },
     {
         "id": 5,
         "courseName": "BCA",
         "sem": "A",
         "sec": "6",
-        "imageLink": "aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_6_A.jpg"
+        "imageLink": "https://aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_6_A.jpg"
     },
     {
         "id": 6,
         "courseName": "BCA",
         "sem": "C",
         "sec": "6",
-        "imageLink": "aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_6_C.jpg"
+        "imageLink": "https://aiyu-ayaan.github.io/BIT-App-Data/data/timeTable/pictures/BCA_6_C.jpg"
     }
 
 ]
