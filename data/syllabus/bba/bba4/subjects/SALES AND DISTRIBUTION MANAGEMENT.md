@@ -1,28 +1,28 @@
 # Sales and Distribution Management
 
 ## Module-1
-Introduction toPhysicalDistribution:
-Conceptofphysicaldistribution,functionofDistributionchannels,typesofdistributionchannels,Steps 
-inDesigningaDistributionsystem.
+`Introduction to Physical Distribution`:
+Concept of physical distribution, function of distribution channels, types of distribution channels, steps in designing a distribution system.
+
 ## Module-2
-WarehouseManagementandtransportation:
-Conceptofwarehouse,NeedandbenefitsofWarehousing,DesigningaWarehousingsystem.Important 
-tasks in Transportation Management, Modes of Transportation. Choosing aTransportationMode.
+`Warehouse Management and Transportation`:
+Concept of warehouse, need and benefits of warehousing, designing a warehousing system. Important tasks in transportation management, modes of transportation, choosing a transportation mode.
+
 ## Module-3
-SalesManagement:
-Conceptof salesmanagement,conceptof personal selling,Objectivesof 
-SalesManagement,Functionofsalesperson,Steps involvedinsellingprocess.
+`Sales Management`:
+Concept of sales management, concept of personal selling, objectives of sales management, function of salesperson, steps involved in selling process.
+
 ## Module-4
-TerritoryManagement:
-Conceptofsalesterritory,ReasonsforEstablishingSalesTerritories,Meaningofsalesquota,typesofsale
-s quota.benefits ofsales quota.
-## Module-5 Evaluation:
-StandardsofPerformance(quota,sellingexpenseratio,callfrequencyratio,ordercallratio),Comparing
-ActualPerformanceswithStandard.Methodsofevaluatingsalespeople.
-## SugestedBooks:
-1.Still,R.,Cundiff,E.W.andGovoni,N.A.P.(1976),SalesManagement:Decision,Polici
-esandCases,Prentice-Hall,3rdEdition(illustrated).
-2.Kotler, P. and Armstrong, G. (2007), Principles of Marketing, Pearson
-PrenticeHall,12th Edition.
-3.Ramaswamy,V.S.andNamakumari,S.(2002),MarketingManagement, 
-MacmillanBusinessBooks.
+`Territory Management`:
+Concept of sales territory, reasons for establishing sales territories, meaning of sales quota, types of sales quota, benefits of sales quota.
+
+## Module-5
+`Evaluation of Sales Performance`:
+Standards of performance (quota, selling expense ratio, call frequency ratio, order call ratio), comparing actual performances with standards. Methods of evaluating salespeople.
+
+## Suggested Books:
+- Still, R., Cundiff, E.W., and Govoni, N.A.P. (1976), Sales Management: Decision, Policies and Cases, Prentice-Hall, 3rd Edition (illustrated).
+- Kotler, P. and Armstrong, G. (2007), Principles of Marketing, Pearson Prentice Hall, 12th Edition.
+- Ramaswamy, V.S. and Namakumari, S. (2002), Marketing Management, Macmillan Business Books.
+
+

@@ -3,18 +3,6 @@
 
 ## Syllabus
 
-The student will conduct relevant research to identify a Business Opportunity and carry out 
-afeasibility study under the supervision of a faculty. The study may be conducted in groups 2-
-3students.
+The student will conduct relevant research to identify a Business Opportunity and carry out a feasibility study under the supervision of a faculty. The study may be conducted in groups 2-3 students.
 
-| CourseDeliverymethods |
-| :--- |
-| Lecturebyuse ofboards/LCDprojectors/OHP projectors |
-| Tutorials/Assignments |
-| Seminars |
-| Miniprojects/Projects |
-| Laboratoryexperiments/teachingaids |
-| Industrial/guest lectures |
-| Industrialvisits/in-planttraining |
-| Self-learningsuchasuseofNPTELmaterialsand internets |
-| Simulation |
+![image](https://aiyu-ayaan.github.io/BIT-App-Data/data\syllabus\bba\bba4\subjects\picture\Project_Feasibility_Analysis_1.png)
