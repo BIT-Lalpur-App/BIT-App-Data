@@ -1,1 +1,59 @@
-{}
+{
+    "semester": {
+        "id": "bca4",
+        "subjects": {
+            "theory": [
+                {
+                    "subjectName": "MANAGEMENT AND CONTROL OF COST",
+                    "code": "MT209",
+                    "shortName": "mcoc",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "FUNDAMENTALS OF OPERATIONS RESEARCH",
+                    "code": "MT210",
+                    "shortName": "FOR",
+                    "credit": 4
+                },
+                {
+                    "subjectName": "SALES AND DISTRIBUTION MANAGEMENT",
+                    "code": "MT211",
+                    "shortName": "SDM",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "PROJECT MANAGEMENT",
+                    "code": "MT212",
+                    "shortName": "PE",
+                    "credit": 2
+                },
+                {
+                    "subjectName": "WEB APPLICATIONS OF BUSINESS",
+                    "code": "MT213",
+                    "shortName": "WAB",
+                    "credit": 2
+                },
+                {
+                    "subjectName": "MANAGEMENT INFORMATION SYSTEM",
+                    "code": "MT214",
+                    "shortName": "MIS",
+                    "credit":  3
+                },
+                {
+                    "subjectName": "ENTREPRENEURSHIP AND SMALL BUSINESS",
+                    "code": "MT216",
+                    "shortName": "ESB",
+                    "credit": 2
+                },
+                {
+                    "subjectName": "PROJECT FEASIBILITY ANALYSIS",
+                    "code": "MT215",
+                    "shortName": "PFA",
+                    "credit": 2
+                }
+            ],
+            "lab": [],
+            "pe": []
+        }
+    }
+}
