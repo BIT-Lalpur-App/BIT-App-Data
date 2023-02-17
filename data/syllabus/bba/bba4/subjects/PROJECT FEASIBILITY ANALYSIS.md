@@ -1,7 +1,7 @@
 
-# Project Feasibility Analysis
+## Project Feasibility Analysis
 
-## Syllabus
+### Syllabus
 
 The student will conduct relevant research to identify a Business Opportunity and carry out a feasibility study under the supervision of a faculty. The study may be conducted in groups 2-3 students.
 
