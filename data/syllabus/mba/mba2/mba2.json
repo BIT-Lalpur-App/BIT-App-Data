@@ -1,0 +1,51 @@
+{
+    "semester": {
+        "id": "mba2",
+        "subjects": {
+            "theory": [
+                {
+                    "subjectName": "Cost Management",
+                    "code": "MT415",
+                    "shortName": "CM",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "French Language",
+                    "code": "MT417",
+                    "shortName": "loof loc",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Human Resource Management",
+                    "spenCode": "BCA13",
+                    "code": "MT410",
+                    "shortName": "math",
+                    "credit": 3,
+                    "listOrder": 3
+                },
+                {
+                    "subjectName": "IT Enabled Business Intelligence",
+                    "code": "MT413",
+                    "shortName": "itcs",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Operation Research",
+                    "code": "MT412",
+                    "shortName": "itcs",
+                    "credit": 3
+                },
+                {
+                    "subjectName": "Strategic management",
+                    "code": "MT414",
+                    "shortName": "sm",
+                    "credit": 2
+                }
+            ],
+            "lab": [
+                
+            ],
+            "pe": []
+        }
+    }
+}
