@@ -11,7 +11,7 @@ Complement, Fuzzy Number, Fuzzy measure.
 Fuzzy Logic: Fuzzy Rules and Fuzzy Reasoning: Extension Principles and Fuzzy 
 Relations, Fuzzy IF THEN Rules, Defuzzification, Fuzzy Reasoning. Fuzzy Inference 
 System: Introduction, Mamdani Fuzzy Models, Other Variants, Takagi-Sugeno Fuzzy 
-Models,. 
+Models. 
 
 ## Module – III
 Fundamentals of Genetic Algorithms: Basic Concepts, Creation of Offsprings, Encoding, 

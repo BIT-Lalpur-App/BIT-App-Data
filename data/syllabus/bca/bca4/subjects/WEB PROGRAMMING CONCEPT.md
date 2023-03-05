@@ -12,7 +12,7 @@ iframes, HTML Forms.
 
 `JavaScript:`Use of JavaScript in Web Pages, Advantages of JavaScript, Data Types, 
 Variables, Operators and Expressions , Conditional Statements, Array Objects, Date Objects, 
-String Objects, Type Casting,, Functions , DOM. 
+String Objects, Type Casting, Functions , DOM. 
 Introduction to Javascript Frameworks, Library and Runtime Environment : React, Angular, 
 Node.js, Express.js.
 

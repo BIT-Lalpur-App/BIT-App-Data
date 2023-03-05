@@ -10,7 +10,7 @@ and Benefits.
 
 ### Module – II
 
-Data types and program statements: Primitive and reference data types, variables and
+`Data types and program statements:` Primitive and reference data types, variables and
 constants, enumerated constants, labelled statement, expression and null statements,
 compound statement, control statement – decision and loops, jump statement, declaration
 statement, try-throw-catch-finally statement, declaring and creating arrays, accessing array
@@ -18,7 +18,7 @@ elements, assigning values to array elements, multidimensional arrays.
 
 ### Module – III
 
-Functions, Data Abstraction and classes: Declaration, definition and call, main method
+`Functions, Data Abstraction and classes:` Declaration, definition and call, main method
 arguments, reference variables, method overloading, parameter passing by value for
 primitive types, object references and arrays, scope of variables, return from methods.
 Class and object, class members and initialization, access rights of members – public, private
@@ -29,7 +29,7 @@ visibility.
 
 ### Module – IV
 
-Inheritance and Collection classes: multi-level and single inheritance, multiple inheritance of
+`Inheritance and Collection classes:` Multi-level and single inheritance, multiple inheritance of
 interfaces, Object class, access rights in subclasses and packages, constructor calling
 sequence, super keyword, dynamic binding of methods, abstract class, overriding,
 shadowing and hiding, finalize, association, aggregation and composition.
@@ -37,7 +37,7 @@ String, StringBuffer, Date, Calendar, Math, Object, Class, Exception class
 
 ### Module – V
 
-Input/Output and JAVA Applets: Stream classes – InputStream, OutputStream, Buffered
+`Input/Output and JAVA Applets:` Stream classes – InputStream, OutputStream, Buffered
 Stream, file classes and handling, pushback streams, reader and writer classes, file reader and
 writer, serialization.
 
