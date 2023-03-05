@@ -10,5 +10,9 @@
     {
         "courseName": "MCA",
         "totalSemester": 4
+    },
+    {
+        "courseName": "MBA",
+        "totalSemester": 4
     }
 ]
