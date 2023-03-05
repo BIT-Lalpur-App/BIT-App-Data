@@ -1,4 +1,4 @@
-### IT Enabled Business Intelligence
+## IT Enabled Business Intelligence
 
 ### Module 1: System
 Introduction and overview, Types of System, System Development life cycle (SDLC),

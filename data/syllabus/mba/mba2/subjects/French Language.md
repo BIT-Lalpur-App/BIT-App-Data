@@ -1,4 +1,4 @@
-### French Language
+## French Language
 
 ### Module 1
 Langue Française, Le pronom personnel, Articles définis et indéfinis, Verbes au présent,

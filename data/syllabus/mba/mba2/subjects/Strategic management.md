@@ -1,4 +1,4 @@
-### Strategic Management 
+## Strategic Management 
 
 ### Module 1: Introduction of Strategic Management
 Definition, nature, scope and importance of strategy and strategic management. Strategic
@@ -11,7 +11,7 @@ Concept of environment, components of environment (economic, legal, social, poli
 technological). Environmental scanning techniques- ETOP, QUEST and SWOT. Internal
 Appraisal: The internal environment, organisational capabilities in various functional areas
 and strategic advantage profile. Methods and techniques used for organisational appraisal
-(Value chain analysis, financial and non-financial analysis, historical analysis, Identification
+Value chain analysis, financial and non-financial analysis, historical analysis, Identification
 of critical success factors (CSF). 
 
 ### Module 3: Corporate Level Strategies
