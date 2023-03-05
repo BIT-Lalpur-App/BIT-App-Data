@@ -1,4 +1,4 @@
-### Human Resource Management
+## Human Resource Management
 
 ### Module 1 Introduction
 Evolution & Growth - Personnel Management, Human Resource Management, Concepts &

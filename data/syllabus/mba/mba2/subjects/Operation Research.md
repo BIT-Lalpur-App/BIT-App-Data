@@ -1,4 +1,4 @@
-### Operation Research 
+## Operation Research 
 
 ### Module 1: Decision making
 The Quantitative approach to decision making, Nature and Significance of OR in decision
