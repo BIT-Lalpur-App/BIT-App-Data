@@ -65,4 +65,4 @@ This policy is effective as of 2023-01-16
 
 **Contact Us**
 
-Contact me at ayaan35200@gmail.com if you have any inquiries or recommendations regarding my privacy policy.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ayaan35200@gmail.com.
