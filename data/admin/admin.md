@@ -1,9 +1,9 @@
 ### Contact details of offices at BITOC Lalpur
 
-<br>
 <center>
 
 ![Director](https://aiyu-ayaan.github.io/BIT-App-Data/data/admin/pic/dir_bitoc.jpeg)
+<br>
 
 Director: Dr. Vandana Bhattacharjee
 
