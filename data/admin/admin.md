@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
   <head>
     <title>Administration</title>
@@ -8,9 +6,6 @@
         border: 1px solid black;
         border-collapse: collapse;
         text-align: center;
-      }
-      table {
-        width: 100%;
       }
       a:link, a:visited {
         text-decoration: none;
