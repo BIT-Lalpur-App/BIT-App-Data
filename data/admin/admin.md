@@ -13,6 +13,10 @@ Qualification: PhD - JNU, M.Tech.(CS) - JNU and B.Tech
 Email ID: dir.lalpur@bitmesra.ac.in
 </center>
 
+<br>
+<br>
+<br>
+
 
 1. Admission
    - Dr. Amrita Priyam
