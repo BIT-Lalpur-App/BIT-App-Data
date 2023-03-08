@@ -2,7 +2,8 @@
 
 <br>
 <center>
-<img src="https://www.bitmesra.ac.in/UploadedDocuments/adminlalpur/images/image-20220118124059-1.jpeg">
+
+![Director](https://www.bitmesra.ac.in/UploadedDocuments/adminlalpur/images/image-20220118124059-1.jpeg)
 
 Director: Dr. Vandana Bhattacharjee
 
