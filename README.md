@@ -1,8 +1,6 @@
 # BIT App Data
 
 ![GitHub](https://img.shields.io/github/license/IBM/dp-config-batch-import)
-![Github Issue](https://img.shields.io/github/issues/aiyu-ayaan/BIT-App-Data)
-![Github Size](https://img.shields.io/github/repo-size/aiyu-ayaan/BIT-App-Data)
 ## Rest JSON API for [BIT APP](https://bitapp.page.link/playStore)
 ![Preview alt](/preview.png)
 

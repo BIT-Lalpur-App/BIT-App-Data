@@ -6,10 +6,10 @@
 <br>
 
 Director: Dr. Vandana Bhattacharjee
-
+<br>
 Qualification: PhD - JNU, M.Tech.(CS) - JNU and B.Tech
 (CSE) - BIT Mesra
-
+<br>
 Email ID: dir.lalpur@bitmesra.ac.in
 </center>
 
