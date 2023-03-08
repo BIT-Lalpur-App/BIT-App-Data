@@ -3,7 +3,7 @@
 <br>
 <center>
 
-![Director](https://www.bitmesra.ac.in/UploadedDocuments/adminlalpur/images/image-20220118124059-1.jpeg)
+![Director](https://aiyu-ayaan.github.io/BIT-App-Data/data/admin/pic/dir_bitoc.jpeg)
 
 Director: Dr. Vandana Bhattacharjee
 
