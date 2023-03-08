@@ -15,8 +15,6 @@ Email ID: dir.lalpur@bitmesra.ac.in
 
 <br>
 <br>
-<br>
-
 
 1. Admission
    - Dr. Amrita Priyam
