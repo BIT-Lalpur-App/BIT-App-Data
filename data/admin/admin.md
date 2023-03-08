@@ -1,5 +1,18 @@
 ### Contact details of offices at BITOC Lalpur
 
+<br>
+<center>
+<img src="https://www.bitmesra.ac.in/UploadedDocuments/adminlalpur/images/image-20220118124059-1.jpeg">
+
+Director: Dr. Vandana Bhattacharjee
+
+Qualification: PhD - JNU, M.Tech.(CS) - JNU and B.Tech
+(CSE) - BIT Mesra
+
+Email ID: dir.lalpur@bitmesra.ac.in
+</center>
+
+
 1. Admission
    - Dr. Amrita Priyam
    - Mr. Basudeo Singh
