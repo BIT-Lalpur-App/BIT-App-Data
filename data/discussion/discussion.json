@@ -1,11 +1,9 @@
-{
-    "post": [
-        {
-            "title": "Options after BCA",
-            "description": "BCA is a three year course. After completing BCA, you can go for higher studies or you can go for job. If you want to go for higher studies, you can go for MCA or M.Sc. in Computer Science. If you want to go for job, you can go for job in IT companies or you can go for job in government sector.",
-            "image": null,
-            "date": 1678433759432,
-            "author": "Ayaan"
-        }
-    ]
-}
+[
+    {
+        "title": "Options after BCA",
+        "description": "BCA is a three year course. After completing BCA, you can go for higher studies or you can go for job. If you want to go for higher studies, you can go for MCA or M.Sc. in Computer Science. If you want to go for job, you can go for job in IT companies or you can go for job in government sector.",
+        "image": null,
+        "date": 1678433759432,
+        "author": "Ayaan"
+    }
+]
