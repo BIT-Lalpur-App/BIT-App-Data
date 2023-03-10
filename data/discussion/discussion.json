@@ -1,7 +1,14 @@
 [
     {
         "title": "Options after BCA",
-        "description": "A Bachelor of Computer Application (BCA) degree prepares graduates for a variety of career paths in the tech industry. Here are some career opportunities that you can pursue after completing a BCA degree:\n1.Software Developer: Software developers are responsible for designing, developing, and testing computer software. They work in a variety of industries, including software development companies, IT departments, and consulting firms.\nWeb Developer: Web developers design, develop, and maintain websites using programming languages like HTML, CSS, and JavaScript. They also work with web design tools and content management systems.\n3.Mobile Application Developer: Mobile application developers design and develop mobile apps for smartphones and tablets. They work in a variety of industries, including mobile app development companies, IT departments, and consulting firms.",
+        "description": "A Bachelor of Computer Application (BCA) degree prepares graduates for a variety of career paths in the tech industry. Here are some career opportunities that you can pursue after completing a BCA degree:\n\n1.Software Developer: Software developers are responsible for designing, developing, and testing computer software. They work in a variety of industries, including software development companies, IT departments, and consulting firms.\n\nWeb Developer: Web developers design, develop, and maintain websites using programming languages like HTML, CSS, and JavaScript. They also work with web design tools and content management systems.\n\n3.Mobile Application Developer: Mobile application developers design and develop mobile apps for smartphones and tablets. They work in a variety of industries, including mobile app development companies, IT departments, and consulting firms.",
+        "image": null,
+        "created": 1678433759432,
+        "author": "Ayaan"
+    },
+    {
+        "title": "Options after BBA",
+        "description": "A Bachelor of Computer Administration (BCA) degree prepares graduates for a variety of career paths in the business and technology industry. Here are some career opportunities that you can pursue after completing a BCA degree:\n\n1.Business Analyst: Business analysts work with companies to help identify areas where technology can improve business processes. They assess business requirements, analyze data, and recommend solutions.\n\n2.Project Manager: Project managers oversee the planning, implementation, and tracking of technology projects. They ensure that projects are completed on time, within budget, and meet project goals.",
         "image": null,
         "created": 1678433759432,
         "author": "Ayaan"
