@@ -8,19 +8,19 @@
                     "subjectName": "Entrepreneurship",
                     "code": "MT501",
                     "shortName": "enter",
-                    "credit": 3
+                    "credit": 1
                 },
                 {
                     "subjectName": "Business Ethics and CSR",
                     "code": "MT502",
                     "shortName": "BEC",
-                    "credit": 3
+                    "credit": 1
                 },
                 {
                     "subjectName": "INTERNATIONAL FINANCE",
                     "code": "MT507",
                     "shortName": "IF",
-                    "credit": 3
+                    "credit": 2
                     
                 },
                 {
@@ -33,13 +33,13 @@
                     "subjectName": "Consumer Behaviour",
                     "code": "MT513",
                     "shortName": "CB",
-                    "credit": 3
+                    "credit": 2
                 },
                 {
                     "subjectName": "Brand Management",
                     "code": "MT520",
                     "shortName": "BM",
-                    "credit": 3
+                    "credit": 2
                 }
             ],
             "lab": [
