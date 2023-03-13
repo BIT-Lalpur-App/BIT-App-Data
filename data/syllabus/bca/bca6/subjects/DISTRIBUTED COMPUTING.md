@@ -44,8 +44,7 @@ versus Unreliable Multicasting, The Java Basic Multicast API.
 ### BOOKS
 
 #### TEXT BOOK:
-1. Liu M. L., “Distributed Computing: Principles and Application”, Pearson Education,
-2008.
+1. Liu M. L., “Distributed Computing: Principles and Application”, Pearson Education, 2008.
 
 #### REFERENCE BOOK:
 1. AltiyaH., WelchJ., “Distributed Computing Fundamentals, Simulations and
