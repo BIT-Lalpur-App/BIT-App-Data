@@ -8,7 +8,7 @@ Organization, Sequential Circuits, State transistors, Flip-flop, RS, JK, D-Latch
 
 
 ### Module II: INSTRUCTION SET ARCHITECTURE
-`Memory Locations and Addresses: `Byte Addressability, Big-Endian and Little-Endian Assignments,
+`Memory Locations and Addresses:`Byte Addressability, Big-Endian and Little-Endian Assignments,
 Word Alignment, Instructions and Instruction Sequencing, Addressing Modes, Assembly Language,
 Subroutines, Additional Instructions, dealing with 32-Bit Immediate Values.
 
@@ -17,7 +17,7 @@ Subroutines, Additional Instructions, dealing with 32-Bit Immediate Values.
 `Basic Processing Unit:` Some Fundamental Concepts, Instruction Execution, Hardware Components,
 Instruction Fetch and Execution Steps, Control Signals, Hardwired Control, CISC-Style Processors.
 
-`Pipelining`: Basic Concept, Pipeline Organization, Pipelining Issues, Data Dependencies, Memory
+`Pipelining:` Basic Concept, Pipeline Organization, Pipelining Issues, Data Dependencies, Memory
 Delays, Branch Delays, Pipeline Performance Evaluation.
 
 
