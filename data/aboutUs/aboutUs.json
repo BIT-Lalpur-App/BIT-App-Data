@@ -25,7 +25,7 @@
     ],
     "managers": [
         {
-            "sno": 9,
+            "sno": 3,
             "instagram": "https://www.instagram.com/riyasaha._/",
             "des": "Bizwit",
             "stackoverflow": "",
@@ -41,7 +41,7 @@
             "name": "Astha Kumari ",
             "website": "",
             "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FAstha%20Kumari.jpg?alt=media&token=ad7d58f0-7d37-407c-8269-a7e0e58fd9a5",
-            "sno": 8,
+            "sno": 2,
             "stackoverflow": "",
             "linkedin": "",
             "des": "Dristi"
@@ -49,7 +49,7 @@
         {
             "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FPriyam%20Sharma.jpg?alt=media&token=f2ea5bf3-d0d8-4bb4-a735-42c817c5e68a",
             "stackoverflow": "",
-            "sno": 3,
+            "sno": 1,
             "linkedin": "https://www.linkedin.com/in/priyam-sharma-846522222/",
             "name": "Priyam Sharma",
             "github": "",
@@ -70,7 +70,7 @@
         },
         {
             "des": "NAPS",
-            "sno": 8,
+            "sno": 5,
             "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FSai%20Aditi%20Verma.jpg?alt=media&token=c6e29432-c1db-4ac0-9f8b-307260a8c4fe",
             "linkedin": "",
             "website": "",
@@ -82,7 +82,7 @@
         {
             "des": "Debsoc",
             "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FPriya%20Ghosh.jpg?alt=media&token=e2ad9e3b-3dcb-40d2-986d-0e6de7c787d8",
-            "sno": 5,
+            "sno": 6,
             "linkedin": "",
             "website": "",
             "github": "",
@@ -109,7 +109,7 @@
             "name": "Suman Bharti",
             "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FSuman%20Singh.jpg?alt=media&token=38f7c5b0-8a70-4840-92d7-5709b05e1a24",
             "website": "",
-            "sno": 6,
+            "sno": 8,
             "linkedin": "https://www.linkedin.com/in/suman-bharti-02370321a/"
         },
         {
@@ -120,7 +120,7 @@
             "name": "Tripti Mitra",
             "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FTripti%20Mitra.jpeg?alt=media&token=50e0708f-82ba-4343-8b79-72a5b822e457",
             "website": "",
-            "sno": 10,
+            "sno": 9,
             "linkedin": "https://www.linkedin.com/in/tripti-mitra-513bbb253/"
         }
     ], 
