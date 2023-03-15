@@ -8,14 +8,14 @@
             "github": "https://github.com/aiyu-ayaan",
             "website": "https://aiyu-ayaan-portfolio.netlify.app/",
             "instagram": "https://www.instagram.com/aiyu.exe_/",
-            "img_link": "https://lh5.googleusercontent.com/9QgGn6QU5FTKvjFSAgtoVcuatUlVPZjCE_2_t-0lpgG6faV4q3uj_lXOFU2Jryaqi8g=w2400",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2FPhotoCollage_1650451070997.jpg?alt=media&token=20b8d770-c3aa-4716-af87-b09f191fca38",
             "sno": 1
         },
         {
             "github": "https://github.com/logicalNil",
             "sno": 2,
             "name": "Nilay",
-            "img_link": "https://lh3.googleusercontent.com/MAe2L65iFtLrYox8EoImR1U4wuhPxMCT2KpeR_U0veMMNmN74issg-2h4aFVbVYIB8U=w2400",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2FPhotoCollage_1652722283972.png?alt=media&token=93847019-90d9-4e16-bbb6-844ec26d15da",
             "des": "Full Stack Developer",
             "stackoverflow": "https://stackoverflow.com/users/18709260/nilay-ranjan",
             "website": "",
@@ -40,16 +40,16 @@
             "instagram": "https://www.instagram.com/astha_003/",
             "name": "Astha Kumari ",
             "website": "",
-            "img_link": "https://lh4.googleusercontent.com/GyXx502DLpvwT3ADxFMJQoqrQG_ngsa6HWqv450i2TCpPG0xBdgWiBiFCubQTr15mZE=w2400",
-            "sno": 6,
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FAstha%20Kumari.jpg?alt=media&token=ad7d58f0-7d37-407c-8269-a7e0e58fd9a5",
+            "sno": 8,
             "stackoverflow": "",
             "linkedin": "",
             "des": "Dristi"
         },
         {
-            "img_link": "https://lh5.googleusercontent.com/4nGM1Lvs1NPmx4YRPLCkNBgsM_Cf_DJr39HZbhBJgfhVpTXHJE4jVPc1qyPu5ADfTWE=w2400",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FPriyam%20Sharma.jpg?alt=media&token=f2ea5bf3-d0d8-4bb4-a735-42c817c5e68a",
             "stackoverflow": "",
-            "sno": 1,
+            "sno": 3,
             "linkedin": "https://www.linkedin.com/in/priyam-sharma-846522222/",
             "name": "Priyam Sharma",
             "github": "",
@@ -61,17 +61,17 @@
             "des": "ITS",
             "instagram": "https://www.instagram.com/prats.2/",
             "stackoverflow": "",
-            "img_link": "https://lh3.googleusercontent.com/UcvgZ1LhvlYiWrnXr4nfmTblOckMaaoKyB8_BQWgyNOKnbq8QYQnBcDibEcZESoGes8=w2400",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FPratyush%20Kumar.JPG?alt=media&token=53e9fb31-9f65-4d82-bdf3-8bfc7dc084db",
             "website": "",
             "name": "Pratyush Kumar",
-            "sno": 2,
+            "sno": 4,
             "linkedin": "",
             "github": ""
         },
         {
             "des": "NAPS",
-            "sno": 7,
-            "img_link": "https://lh6.googleusercontent.com/z7jUXYUew38oIYtgducArjmLCDdHuqS7_5yNjq0g9LdroWuRVjdFa6-T9thRCVUHYrU=w2400",
+            "sno": 8,
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FSai%20Aditi%20Verma.jpg?alt=media&token=c6e29432-c1db-4ac0-9f8b-307260a8c4fe",
             "linkedin": "",
             "website": "",
             "stackoverflow": "",
@@ -81,8 +81,8 @@
         },
         {
             "des": "Debsoc",
-            "img_link": "https://lh5.googleusercontent.com/sAU97NPsxiubnxtg4Up9OfXObyMYn_aa8MuiVi23A1XYsBGD_ygcadge6FlpHDFpAo4=w2400",
-            "sno": 3,
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FAyushi%20Dixit.jpg?alt=media&token=5e94e610-30b8-4932-9130-22c2a04d8783",
+            "sno": 5,
             "linkedin": "",
             "website": "",
             "github": "https://github.com/AYUSHIDIXIT0123",
@@ -98,7 +98,7 @@
             "sno": 7,
             "instagram": "https://www.instagram.com/_minal_srivastav_",
             "github": "",
-            "img_link": "https://lh4.googleusercontent.com/JrlYkLOgs-ZBRpVWiup9EVvY1VlXMk6jY6oL3l-t1skf8bB8TuOxLJsslk0RoPFmLaQ=w2400",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FMinal%20Srivastav.jpg?alt=media&token=c36d27b7-1f2d-425c-b7c2-854151f81b94",
             "stackoverflow": ""
         },
         {
@@ -107,9 +107,9 @@
             "stackoverflow": "",
             "instagram": "https://www.instagram.com/suman_._singh_official_/",
             "name": "Suman Bharti",
-            "img_link": "https://lh6.googleusercontent.com/z7jUXYUew38oIYtgducArjmLCDdHuqS7_5yNjq0g9LdroWuRVjdFa6-T9thRCVUHYrU=w2400",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FSuman%20Singh.jpg?alt=media&token=38f7c5b0-8a70-4840-92d7-5709b05e1a24",
             "website": "",
-            "sno": 4,
+            "sno": 6,
             "linkedin": "https://www.linkedin.com/in/suman-bharti-02370321a/"
         },
         {
@@ -127,7 +127,7 @@
     "contributors": [
       
         {
-            "img_link": "https://lh5.googleusercontent.com/T-SDqeR5WTeTlwUrFKgXsEFTYM_RP0CVSoh3iXwdzkyDafnl4W5uHQD7p9lJ80HcOAE=w2400",
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2Fpiyushkhandelia_4547351131_1_20220523095202305.jpg?alt=media&token=9db54c52-f660-4f5b-8f21-dd431a28dbeb",
             "des": "Managing Head & PR",
             "github": "https://github.com/PiyushKhandelia",
             "instagram": "https://www.instagram.com/eclipse_piyush/",
@@ -146,7 +146,7 @@
             "website": "",
             "name": "Brishti Dey",
             "instagram": "https://www.instagram.com/brishti.exe_",
-            "img_link": "https://lh6.googleusercontent.com/PRSrRbL3zc_SUNKTd_YPtyo56GqnUGlMskm-JVDtsY788JCan3ERtWlgIeefKpRcGNs=w2400"
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About%20Us%2FBrishti.jpg?alt=media&token=2630ac8d-1fc8-47c7-b2fe-b50e1164799b"
         },
         {
             "des": "",
@@ -157,18 +157,18 @@
             "website": "",
             "name": "Surovi Banerjee",
             "instagram": "https://www.instagram.com/surovibanerjee",
-            "img_link": "https://lh5.googleusercontent.com/MqiGmn99tZFYEsClytkog-n76rPzvprrajqTASr1RSxIQH_VL9W-VaXIVtjv0fWmYQU=w2400"
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FSurovi.jpg?alt=media&token=7fdacc64-190d-473d-9374-f745402c99f8"
         },
         {
             "des": "",
             "linkedin": "https://www.linkedin.com/in/eshita-kumari-5a3236260/",
-            "sno": 4,
+            "sno": 3,
             "stackoverflow": "",
             "github": "https://github.com/eshita22202",
             "website": "",
             "name": "Eshita Kumari",
             "instagram": "https://www.instagram.com/eshita_110",
-            "img_link": "https://lh5.googleusercontent.com/SeOG9jv5pvtEF41vPupkFRhv2rHlrdVPQgK2c2D5XDqMz7MiNJU_z8AmtTHehjqD97Y=w2400"
+            "img_link": "https://firebasestorage.googleapis.com/v0/b/theaiyubit.appspot.com/o/About_Us_Manager%2FEshita%20kumari.jpeg?alt=media&token=82715321-dbfc-496d-b9e0-4a95756c95e8"
         }
     ]
 }
