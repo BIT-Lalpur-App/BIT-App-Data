@@ -1,5 +1,6 @@
 # BIT App Data
 
+![GitHub](https://img.shields.io/github/license/IBM/dp-config-batch-import)
 ## Rest JSON API for [BIT APP](https://bitapp.page.link/playStore)
 ![Preview alt](/preview.png)
 
@@ -37,7 +38,7 @@ Everyone is welcome to contribute to the project. You can contribute by adding n
 
 
 ## Quick Links
-- [BIT APP](https://bitapp.page.link/playStore)
+- [BIT APP](https://play.google.com/store/apps/details?id=com.atech.bit)
 - [BIT APP GITHUB](https://bitapp.page.link/BIT)
 - [BIT APP WEBSITE](https://bitapp.page.link/bitByAiyu)
 
