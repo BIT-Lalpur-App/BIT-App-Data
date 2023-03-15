@@ -3,20 +3,18 @@
 ### Module 1 
 `Labour Management Relations` 
 
-Concept, concept of Labour Management Relations, characteristics and objectives of Industrial Relations, Industrial Relation Theories, Industrial Relation in major industrialized economies, characteristics of Indian 
-Industrial relation system.
+Concept, concept of Labour Management Relations, characteristics and objectives of Industrial Relations, Industrial Relation Theories, Industrial Relation in major industrialized economies, characteristics of Indian Industrial relation system.
 
 ### Module 2
 `Trade union and unionism`
 
-Trade union movement in India, concept and definition of trade union, functions of trade union, theories of trade union , Managerial trade unionism, Problems and characteristics of trade unions in India .
+Trade union movement in India, concept and definition of trade union, functions of trade union, theories of trade union , Managerial trade unionism, Problems and characteristics of trade unions in India.
 
 ### Module 3 
 `Collective Bargaining`
 
 Definition and concept, characteristics and importance, theories of Collective Bargaining, objectives and process of Collective Bargaining, 
-analysis of collective agreements, essential conditions for success of Collective 
-Bargaining.
+analysis of collective agreements, essential conditions for success of Collective Bargaining.
 
 ### Module 4 
 `Workers Participation in management`
