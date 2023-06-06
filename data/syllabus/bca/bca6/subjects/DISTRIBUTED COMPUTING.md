@@ -29,10 +29,7 @@ server.
 
 `Distributed Objects:` Remote Procedure Calls, Distributed Objected Systems,
 Remote Method Invocation, The Java RMI Architecture, The API for the Java
-RMI, RMI Security Manager, Comparison of RMI
-Remote Procedure Calls, Distributed Objected Systems, Remote Method
-Invocation, The Java RMI Architecture, The API for the Java RMI, RMI Security
-Manager, Comparison of RMI and Socket APIs.
+RMI, RMI Security Manager, Comparison of RMI.
 
 ### Module – V
 
