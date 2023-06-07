@@ -3,11 +3,11 @@
 ### Syllabus
 1.Solve the following using command window
 
-![image1](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_1.png)
+![image1](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_1.png)
 
 2.Solve the following using command window
 
-![image1](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_2.png)
+![image1](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_2.png)
 
 3.Invoke MATLAB interactively and perform the following steps.
 
@@ -42,19 +42,19 @@ x=[0 1 2 3 4 5 6 7 8 9 10] add 7 to the data and multiply with 8.
 
 8.Solve the following using command window
 
-![image1](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_3.png)
+![image1](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_3.png)
 
 9.Solve the following using command window
 
-![image1](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_4.png)
+![image1](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_4.png)
 
 10.Consider the following matrix and write a program to find the transpose of A
 
-![image1](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_7.png)
+![image1](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_7.png)
 
 11.Create the following three matrices
 
-![image1](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_5.png)
+![image1](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_5.png)
 
 Calculate A + B and B + A to show that addition of matrices is commutative.
 
@@ -81,7 +81,7 @@ the previous two. Hence the sequence starts as O, l, l, 2, 3, 5, 8, 13, Calculat
 
 22.Plot the function
 
-![image1](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_6.png)
+![image1](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca2/subjects/picture/matlab_6.png)
 
 
 ### Books

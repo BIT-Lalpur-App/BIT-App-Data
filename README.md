@@ -8,26 +8,26 @@ For now, the API is very simple. It has only one endpoint, which is the followin
 
 Syllabus 
 ```
-https://aiyu-ayaan.github.io/BIT-App-Data/data/{course}/{course+sem}.json
+https://bit-lalpur-app.github.io/BIT-App-Data/data/{course}/{course+sem}.json
 ```
 Legacy Syllabus 
 ```
-https://aiyu-ayaan.github.io/BIT-App-Data/syllabus/data/{course+sem}.json
+https://bit-lalpur-app.github.io/BIT-App-Data/syllabus/data/{course+sem}.json
 ```
 
 Society 
 ```
-https://aiyu-ayaan.github.io/BIT-App-Data/data/society/society.json
+https://bit-lalpur-app.github.io/BIT-App-Data/data/society/society.json
 ```
 
 Holiday
 ```
-https://aiyu-ayaan.github.io/BIT-App-Data/data/holiday/holiday.json
+https://bit-lalpur-app.github.io/BIT-App-Data/data/holiday/holiday.json
 ```
 
 About Us
 ```
-https://aiyu-ayaan.github.io/BIT-App-Data/data/aboutUs/aboutUs.json
+https://bit-lalpur-app.github.io/BIT-App-Data/data/aboutUs/aboutUs.json
 ```
 
 ## Contriute to the project

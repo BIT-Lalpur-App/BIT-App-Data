@@ -128,7 +128,7 @@ and denominator. Take two inputs of rational numbers and perform multiplication 
 
 &nbsp; d) radius of sphere and compute its area and volume
 
-![image](https://aiyu-ayaan.github.io/BIT-App-Data/data/syllabus/bca/bca3/subjects/picture/java_lab_1.png)
+![image](https://bit-lalpur-app.github.io/BIT-App-Data/data/syllabus/bca/bca3/subjects/picture/java_lab_1.png)
 
 28.Write a class called Employee, which requires the following :
 

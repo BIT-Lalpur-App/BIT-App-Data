@@ -2,7 +2,7 @@
 
 <center>
 
-![Director](https://aiyu-ayaan.github.io/BIT-App-Data/data/admin/pic/dir_bitoc.jpeg)
+![Director](https://bit-lalpur-app.github.io/BIT-App-Data/data/admin/pic/dir_bitoc.jpeg)
 <br>
 
 Director: Dr. Vandana Bhattacharjee
@@ -11,6 +11,7 @@ Qualification: PhD - JNU, M.Tech.(CS) - JNU and B.Tech
 (CSE) - BIT Mesra
 <br>
 Email ID: dir.lalpur@bitmesra.ac.in
+
 </center>
 
 <br>
