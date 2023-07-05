@@ -125,18 +125,7 @@
         }
     ], 
     "contributors": [
-      
-        {
-            "img_link": "https://lh5.googleusercontent.com/T-SDqeR5WTeTlwUrFKgXsEFTYM_RP0CVSoh3iXwdzkyDafnl4W5uHQD7p9lJ80HcOAE=w2400",
-            "des": "Managing Head & PR",
-            "github": "https://github.com/PiyushKhandelia",
-            "instagram": "https://www.instagram.com/eclipse_piyush/",
-            "stackoverflow": "https://stackoverflow.com/users/19642842/piyush-khandelia",
-            "sno": 2,
-            "website": "",
-            "linkedin": "https://www.linkedin.com/in/piyush-khandelia-a0068b199",
-            "name": "Piyush "
-        },
+
         {
             "des": "Backend Dev & Core Member",
             "linkedin": "https://www.linkedin.com/in/brishti-dey-048146222/",
@@ -147,6 +136,17 @@
             "name": "Brishti Dey",
             "instagram": "https://www.instagram.com/brishti.exe_",
             "img_link": "https://lh6.googleusercontent.com/PRSrRbL3zc_SUNKTd_YPtyo56GqnUGlMskm-JVDtsY788JCan3ERtWlgIeefKpRcGNs=w2400"
+        },
+        {
+            "img_link": "https://lh5.googleusercontent.com/T-SDqeR5WTeTlwUrFKgXsEFTYM_RP0CVSoh3iXwdzkyDafnl4W5uHQD7p9lJ80HcOAE=w2400",
+            "des": "Managing Head & PR",
+            "github": "https://github.com/PiyushKhandelia",
+            "instagram": "https://www.instagram.com/eclipse_piyush/",
+            "stackoverflow": "https://stackoverflow.com/users/19642842/piyush-khandelia",
+            "sno": 2,
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/piyush-khandelia-a0068b199",
+            "name": "Piyush "
         },
         {
             "des": "",
