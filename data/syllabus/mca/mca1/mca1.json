@@ -34,7 +34,13 @@
                     "credit": 3
                 }
             ],
-            "lab": [
+            "lab": [  
+            {
+                "subjectName": "OBJECT ORIENTED DESIGN USING JAVA LAB",
+                "code": "CA410",
+                "shortName": "OODJLAB",
+                "credit": 1.5
+            },
             {
                 "subjectName": "Data Structures and Algorithms Lab",
                 "code": "CA406",
