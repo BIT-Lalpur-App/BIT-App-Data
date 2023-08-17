@@ -11,6 +11,7 @@
 `b. Display of Array elements with suitable headings.`
 
 `c. Inserting an element (ELEM) at a given valid position (POS).`
+
 `d. Deleting an element at a given valid position (POS).`
 
 `e. Exit`
