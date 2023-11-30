@@ -6,67 +6,67 @@
         {
           "subjectName": "Fundamentals of management & Organization Behaviour",
           "code": "MT114",
-          "shortName": "FMOB",
-          "credit": 3
+          "shortName": "Fom&OB",
+          "credit": "3"
         },
         {
           "subjectName": "Data Communication & Computer Networks",
           "code": "CA413",
-          "shortName": "DCCN",
-          "credit": 3
+          "shortName": "DC&CN",
+          "credit": "3"
         },
         {
           "subjectName": "Software Engineering Principles",
           "code": "CA415",
           "shortName": "SEP",
-          "credit": 3
+          "credit": "3"
         },
         {
           "subjectName": "Theory of Computation",
           "code": "CA417",
-          "shortName": "",
-          "credit": 3
+          "shortName": "ToC",
+          "credit": "3"
         },
-         {
-           "subjectName": "Analysis of Algorithms",
-           "code": "CA419",
-           "shortName": "",
-           "credit": 3
-         }
+        {
+          "subjectName": "Analysis of Algorithms",
+          "code": "CA419",
+          "shortName": "AoA",
+          "credit": "3"
+        }
       ],
       "lab": [
-         {
-           "subjectName": "DCCN Lab",
-           "code": "CA414",
-           "shortName": "",
-           "credit": 1.5
-         },
-          {
-            "subjectName": "Software Engineering Lab",
-            "code": "CA416",
-            "shortName": "",
-            "credit": 3
-          },
-          {
+        {
+          "subjectName": "DCCN Lab",
+          "code": "CA414",
+          "shortName": "DL",
+          "credit": "1.5"
+        },
+        {
+          "subjectName": "Software Engineering Lab",
+          "code": "CA416",
+          "shortName": "SEL",
+          "credit": "1.5"
+        },
+        {
           "subjectName": "IT Tools & Techniques Lab",
           "code": "CA422",
-          "shortName": "",
-          "credit": 3
+          "shortName": "IT&TL",
+          "credit": "1.5"
         }
       ],
       "pe": [
-         {
-           "subjectName": "Intrusion Detection System",
-           "code": "CA433",
-           "shortName": "",
-           "credit": 3
-         },
-          {
-            "subjectName": "Data Mining Technique",
-            "code": "CA441",
-            "shortName": "",
-            "credit": 3
-          }
+        {
+          "subjectName": "Intrusion Detection System",
+          "code": "CA433",
+          "shortName": "IDS",
+          "credit": "3"
+        },
+        {
+          "subjectName": "Data Mining Techniques",
+          "code": "CA441",
+          "shortName": "DMT",
+          "credit": "3"
+        }
       ]
     }
   }
