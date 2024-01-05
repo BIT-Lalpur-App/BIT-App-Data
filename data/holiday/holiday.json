@@ -1,244 +1,255 @@
 {
-    "holidays": [
-        {
-            "date": "01 JAN",
-            "day": "Sunday",
-            "type": "main",
-            "occasion": "New Year's Day",
-            "month": "January",
-            "sno": 1
-        },
-        {
-            "date": "05 JAN",
-            "day": "Thursday",
-            "type": "res",
-            "occasion": "Guru Govind Singh Jayanti",
-            "month": "January",
-            "sno": 2
-        },
-        {
-            "date": "14 JAN",
-            "day": "Saturday",
-            "type": "main",
-            "occasion": "Makar Sankranti",
-            "month": "January",
-            "sno": 3
-        },
-        {
-            "date": "26 JAN",
-            "day": "Thursday",
-            "type": "main",
-            "occasion": "Republic Day / Basant Panchami",
-            "month": "January",
-            "sno": 4
-        },
-        {
-            "date": "18 FEB",
-            "day": "Saturday",
-            "type": "main",
-            "occasion": "Maha Shivaratri",
-            "month": "February",
-            "sno": 5
-        },
-        {
-            "date": "07-08 MAR",
-            "day": "Tuesday-Wednesday",
-            "type": "main",
-            "occasion": "Holi",
-            "month": "March",
-            "sno": 6
-        },
-        {
-            "date": "8 MAR",
-            "day": "Wednesday",
-            "type": "res",
-            "occasion": "Shab-e-Barat",
-            "month": "March",
-            "sno": 7
-        },
-        {
-            "date": "30 MAR",
-            "day": "Thursday",
-            "type": "main",
-            "occasion": "Rama Navami",
-            "month": "March",
-            "sno": 8
-        },
-        {
-            "date": "04 APR",
-            "day": "Tuesday",
-            "type": "main",
-            "occasion": "Mahavir Jayanti",
-            "month": "April",
-            "sno": 9
-        },
-        {
-            "date": "07 APR",
-            "day": "Friday",
-            "type": "main",
-            "occasion": "Good Friday",
-            "month": "April",
-            "sno": 10
-        },
-        {
-            "date": "14 APR",
-            "day": "Friday",
-            "type": "main",
-            "occasion": "Dr. B. R. Ambedkar Jayanti",
-            "month": "April",
-            "sno": 11
-        },
-        {
-            "date": "22 APR",
-            "day": "Saturday",
-            "type": "main",
-            "occasion": "Eid-ul-Fitr",
-            "month": "April",
-            "sno": 12
-        },
-        {
-            "date": "23 APR",
-            "day": "Sunday",
-            "type": "main",
-            "occasion": "Sarhul",
-            "month": "April",
-            "sno": 13
-        },
-        {
-            "date": "05 MAY",
-            "day": "Friday",
-            "type": "main",
-            "occasion": "Buddha Purnima",
-            "month": "May",
-            "sno": 14
-        },
-        {
-            "date": "20 JUNE",
-            "day": "Tuesday",
-            "type": "main",
-            "occasion": "Rath Yatra",
-            "month": "June",
-            "sno": 15
-        },
-        {
-            "date": "29 JUNE",
-            "day": "Thursday",
-            "type": "main",
-            "occasion": "Eid-ul-Zoha",
-            "month": "June",
-            "sno": 16
-        },
-        {
-            "date": "29 JULY",
-            "day": "Saturday",
-            "type": "main",
-            "occasion": "Muharram",
-            "month": "July",
-            "sno": 17
-        },
-        {
-            "date": "15 AUG",
-            "day": "Tuesday",
-            "type": "main",
-            "occasion": "Independence Day",
-            "month": "August",
-            "sno": 18
-        },
-        {
-            "date": "30 AUG",
-            "day": "Wednesday",
-            "type": "main",
-            "occasion": "Raksha Bandhan",
-            "month": "August",
-            "sno": 19
-        },
-        {
-            "date": "07 SEP",
-            "day": "Thursday",
-            "type": "main",
-            "occasion": "Janmashtami",
-            "month": "September",
-            "sno": 20
-        },
-        {
-            "date": "10 SEP",
-            "day": "Sunday",
-            "type": "main",
-            "occasion": "Karma",
-            "month": "September",
-            "sno": 21
-        },
-        {
-            "date": "17 SEP",
-            "day": "Sunday",
-            "type": "main",
-            "occasion": "Vishwakarma Puja",
-            "month": "September",
-            "sno": 22
-        },
-        {
-            "date": "28 SEP",
-            "day": "Thursday",
-            "type": "main",
-            "occasion": "Eid-e-Milad-un-Nabi",
-            "month": "September",
-            "sno": 23
-        },
-        {
-            "date": "02 OCT",
-            "day": "Monday",
-            "type": "main",
-            "occasion": "Gandhi Jayanti",
-            "month": "October",
-            "sno": 24
-        },
-        {
-            "date": "20-24 OCT",
-            "day": "Friday-Tuesday",
-            "type": "main",
-            "occasion": "Durga Puja",
-            "month": "October",
-            "sno": 25
-        },
-        {
-            "date": "12-13 Nov",
-            "day": "Sunday-Monday",
-            "type": "main",
-            "occasion": "Deepawali / Goverdhan Puja",
-            "month": "November",
-            "sno": 26
-        },
-        {
-            "date": "15 Nov",
-            "day": "Wednesday",
-            "type": "main",
-            "occasion": "Birsa Jayanti / Bhaiduj - Chitragupta Puja",
-            "month": "November",
-            "sno": 27
-        },
-        {
-            "date": "19-20 Nov",
-            "day": "Sunday-Monday",
-            "type": "main",
-            "occasion": "Chhath Puja",
-            "month": "November",
-            "sno": 28
-        },
-        {
-            "date": "27 Nov",
-            "day": "Monday",
-            "type": "main",
-            "occasion": "Guru Nanak Jayanti",
-            "month": "November",
-            "sno": 29
-        },
-        {
-            "date": "25 DEC",
-            "day": "Monday",
-            "type": "main",
-            "occasion": "Christmas",
-            "month": "December",
-            "sno": 30
-        }
-    ]
+  "holidays": [
+    {
+      "date": "01 JAN",
+      "day": "Monday",
+      "type": "main",
+      "occasion": "New Year's Day",
+      "month": "January",
+      "sno": 1
+    },
+    {
+      "date": "15 JAN",
+      "day": "Monday",
+      "type": "main",
+      "occasion": "Makar Sankranti",
+      "month": "January",
+      "sno": 2
+    },
+    {
+      "date": "17 JAN",
+      "day": "Wednesday",
+      "type": "res",
+      "occasion": "Guru Govind Singh Jayanti",
+      "month": "January",
+      "sno": 3
+    },
+    {
+      "date": "26 JAN",
+      "day": "Friday",
+      "type": "main",
+      "occasion": "Republic Day",
+      "month": "January",
+      "sno": 4
+    },
+    {
+      "date": "14 FEB",
+      "day": "Wednesday",
+      "type": "main",
+      "occasion": "Basant Panchami",
+      "month": "February",
+      "sno": 5
+    },
+    {
+      "date": "25 FEB",
+      "day": "Sunday",
+      "type": "res",
+      "occasion": "Shab-e-Barat",
+      "month": "February",
+      "sno": 6
+    },
+    {
+      "date": "08 MAR",
+      "day": "Friday",
+      "type": "main",
+      "occasion": "Maha Shivaratri",
+      "month": "March",
+      "sno": 7
+    },
+    {
+      "date": "25 MAR",
+      "day": "Monday",
+      "type": "main",
+      "occasion": "Holi",
+      "month": "March",
+      "sno": 8
+    },
+    {
+      "date": "29 MAR",
+      "day": "Friday",
+      "type": "main",
+      "occasion": "Good Friday",
+      "month": "March",
+      "sno": 9
+    },
+    {
+      "date": "11 APR",
+      "day": "Thursday",
+      "type": "main",
+      "occasion": "Eid-ul-Fitr / Sarhul",
+      "month": "April",
+      "sno": 10
+    },
+    {
+      "date": "14 APR",
+      "day": "Sunday",
+      "type": "main",
+      "occasion": "Dr. B. R. Ambedkar Jayanti",
+      "month": "April",
+      "sno": 11
+    },
+    {
+      "date": "17 APR",
+      "day": "Wednesday",
+      "type": "main",
+      "occasion": "Rama Navami",
+      "month": "April",
+      "sno": 12
+    },
+    {
+      "date": "21 APR",
+      "day": "Sunday",
+      "type": "main",
+      "occasion": "Mahavir Jayanti",
+      "month": "April",
+      "sno": 13
+    },
+    {
+      "date": "23 MAY",
+      "day": "Thursday",
+      "type": "main",
+      "occasion": "Buddha Purnima",
+      "month": "May",
+      "sno": 14
+    },
+    {
+      "date": "17 JUNE",
+      "day": "Monday",
+      "type": "main",
+      "occasion": "Eid-ul-Zoha",
+      "month": "June",
+      "sno": 15
+    },
+    {
+      "date": "07 JULY",
+      "day": "Sunday",
+      "type": "main",
+      "occasion": "Rath Yatra",
+      "month": "July",
+      "sno": 16
+    },
+    {
+      "date": "17 JULY",
+      "day": "Wednesday",
+      "type": "main",
+      "occasion": "Muharram",
+      "month": "July",
+      "sno": 17
+    },
+    {
+      "date": "15 AUG",
+      "day": "Thursday",
+      "type": "main",
+      "occasion": "Independence Day",
+      "month": "August",
+      "sno": 18
+    },
+    {
+      "date": "19 AUG",
+      "day": "Monday",
+      "type": "res",
+      "occasion": "Raksha Bandhan",
+      "month": "August",
+      "sno": 19
+    },
+    {
+      "date": "26 AUG",
+      "day": "Monday",
+      "type": "main",
+      "occasion": "Janmashtami",
+      "month": "August",
+      "sno": 20
+    },
+    {
+      "date": "14 SEP",
+      "day": "Saturday",
+      "type": "main",
+      "occasion": "Karma",
+      "month": "September",
+      "sno": 21
+    },
+    {
+      "date": "16 SEP",
+      "day": "Monday",
+      "type": "main",
+      "occasion": "Eid-e-Milad-un-Nabi",
+      "month": "September",
+      "sno": 22
+    },
+    {
+      "date": "17 SEP",
+      "day": "Tuesday",
+      "type": "main",
+      "occasion": "Vishwakarma Puja",
+      "month": "September",
+      "sno": 23
+    },
+
+    {
+      "date": "02 OCT",
+      "day": "Wednesday",
+      "type": "main",
+      "occasion": "Gandhi Jayanti",
+      "month": "October",
+      "sno": 24
+    },
+    {
+      "date": "10-13 OCT",
+      "day": "Thursday-Sunday",
+      "type": "main",
+      "occasion": "Durga Puja",
+      "month": "October",
+      "sno": 25
+    },
+    {
+      "date": "31 OCT",
+      "day": "Thursday",
+      "type": "main",
+      "occasion": "Deepawali",
+      "month": "November",
+      "sno": 26
+    },
+    {
+      "date": "02 NOV",
+      "day": "Saturday",
+      "type": "res",
+      "occasion": "Goverdhan Puja",
+      "month": "November",
+      "sno": 27
+    },
+    {
+      "date": "03 NOV",
+      "day": "Sunday",
+      "type": "res",
+      "occasion": "Bhaiduj - Chitragupta Puja",
+      "month": "November",
+      "sno": 28
+    },
+
+    {
+      "date": "07-08 NOV",
+      "day": "Thursday-Friday",
+      "type": "main",
+      "occasion": "Chhath Puja",
+      "month": "November",
+      "sno": 29
+    },
+    {
+      "date": "15 NOV",
+      "day": "Friday",
+      "type": "main",
+      "occasion": "Birsa Jayanti / Guru Nanak Jayanti",
+      "month": "November",
+      "sno": 30
+    },
+
+    {
+      "date": "25 DEC",
+      "day": "Wednesday",
+      "type": "main",
+      "occasion": "Christmas",
+      "month": "December",
+      "sno": 31
+    }
+  ]
 }
