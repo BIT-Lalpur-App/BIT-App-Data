@@ -4,52 +4,51 @@
     "subjects": {
       "theory": [
         {
-          "subjectName": "INTRODUCTION TO COMPUTER ALGORITHMS",
-          "code": "CA255",
-          "shortName": "ica algo",
-          "credit": 4
-        },
-        {
-          "subjectName": "SOFTWARE ENGINEERING",
-          "code": "CA258",
+          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING",
+          "code": "CA253",
           "shortName": "pse",
-          "credit": 3
+          "credit": 4
         },
         {
           "subjectName": "WEB PROGRAMMING CONCEPT",
-          "code": "CA256",
+          "code": "CA251",
           "shortName": "wp",
           "credit": 2
-        },
-        {
-          "subjectName": "Soft Computing",
-          "code": "CA315",
-          "shortName": "sc",
-          "credit": 4
         }
       ],
       "lab": [
         {
-          "subjectName": "SOFTWARE ENGINEERING LAB",
-          "code": "CA259",
+          "subjectName": "PRINCIPLES OF SOFTWARE ENGINEERING LAB",
+          "code": "CA254",
           "shortName": "se;",
           "credit": 2
         },
         {
           "subjectName": "WEB PROGRAMMING CONCEPTS LAB",
-          "code": "CA257",
+          "code": "CA252",
           "shortName": "wpl",
           "credit": 2
         },
         {
-          "subjectName": "Soft Computing Lab",
-          "code": "CA282",
+          "subjectName": "GRAPHIC DESIGN AND PHOTO EDITING LAB",
+          "code": "CA264",
           "shortName": "scl",
-          "credit": 4
+          "credit": 2
         }
       ],
       "pe": [
-       
+        {
+          "subjectName": "Fundamentals of Optimization Techniques",
+          "code": "CA265",
+          "shortName": "fot",
+          "credit": 4
+        },
+        {
+          "subjectName": "Human Values and Professional Ethics",
+          "code": "CA269",
+          "shortName": "hvpe",
+          "credit": 2
+        }
       ]
     }
   }
