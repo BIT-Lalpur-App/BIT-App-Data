@@ -1,8 +1,8 @@
 ## Cloud Computing
 ### Module I
-Introduction: Essentials, Benefits and need for Cloud Computing - Business and IT Perspective
-- Cloud and Virtualization - Cloud Services Requirements - Cloud and Dynamic Infrastructure -
+Introduction: Essentials, Benefits and need for Cloud Computing - Business and IT Perspective- Cloud and Virtualization - Cloud Services Requirements - Cloud and Dynamic Infrastructure -
 Cloud Computing Characteristics Cloud Adoption.
+
 ### Module II
 Principles of Parallel and Distributed Computing: Eras of computing, Parallel vs. Distributed
 computing, Elements of parallel computing, Elements of distributed computing, Technologies
