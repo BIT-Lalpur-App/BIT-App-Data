@@ -1,1 +1,73 @@
-{}
+{
+  "semester": {
+    "id": "mca3",
+    "subjects": {
+      "theory": [
+        {
+          "subjectName": "Basics of Machine Learning",
+          "code": "CA511",
+          "shortName": "BoML",
+          "credit": "3"
+        },
+        {
+          "subjectName": "Compiler Design",
+          "code": "CA513",
+          "shortName": "CD",
+          "credit": "4"
+        },
+        {
+          "subjectName": "Soft Computing",
+          "code": "CA515",
+          "shortName": "SC",
+          "credit": "3"
+        }
+      ],
+      "lab": [
+        {
+          "subjectName": "Basics of Machine Learning Lab",
+          "code": "CA512",
+          "shortName": "BoMLL",
+          "credit": "1.5"
+        },
+        {
+          "subjectName": "Compiler Design Lab",
+          "code": "CA514",
+          "shortName": "CDL",
+          "credit": "1.5"
+        }
+      ],
+      "pe": [
+        {
+          "subjectName": "Internet of Things",
+          "code": "CA543",
+          "shortName": "IoT",
+          "credit": "3"
+        },
+        {
+          "subjectName": "Cyber Security",
+          "code": "CA521",
+          "shortName": "CS",
+          "credit": "3"
+        },
+        {
+          "subjectName": "Cloud Computing",
+          "code": "CA523",
+          "shortName": "CC",
+          "credit": "3"
+        },
+        {
+          "subjectName": "Deep Learning",
+          "code": "CA525",
+          "shortName": "DL",
+          "credit": "3"
+        },
+        {
+          "subjectName": "Computer Vision",
+          "code": "CA527",
+          "shortName": "CV",
+          "credit": "3"
+        }
+      ]
+    }
+  }
+}
