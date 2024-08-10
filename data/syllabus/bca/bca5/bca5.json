@@ -31,7 +31,30 @@
                 }
             ],
             "pe": [
-
+                {
+                    "subjectName": "INTRODUCTION TO PYTHON PROGRAMMING",
+                    "code": "CA309",
+                    "credit": 4,
+                    "sortName": "ITPP"
+                },
+                {
+                    "subjectName": "INTRODUCTION TO PYTHON PROGRAMMING LAB",
+                    "code": "CA310",
+                    "credit": 2,
+                    "sortName": "ITPPL"
+                },
+                {
+                    "subjectName": "INTRODUCTION TO INTERNET TECHNOLOGIES",
+                    "code": "CA317",
+                    "credit": 4,
+                    "sortName": "IT"
+                },
+                {
+                    "subjectName": "INTERNET TECHNOLOGIES LAB",
+                    "code": "CA318",
+                    "credit": 2,
+                    "sortName": "ITL"
+                }
             ]
         }
     }
