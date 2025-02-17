@@ -10,34 +10,10 @@
             "instagram": "https://www.instagram.com/aiyu.dev_/",
             "img_link": "https://lh5.googleusercontent.com/9QgGn6QU5FTKvjFSAgtoVcuatUlVPZjCE_2_t-0lpgG6faV4q3uj_lXOFU2Jryaqi8g=w2400",
             "sno": 1
-        },
-        {
-            "github": "https://github.com/logicalNil",
-            "sno": 2,
-            "name": "Nilay",
-            "img_link": "https://lh3.googleusercontent.com/MAe2L65iFtLrYox8EoImR1U4wuhPxMCT2KpeR_U0veMMNmN74issg-2h4aFVbVYIB8U=w2400",
-            "des": "Full Stack Developer",
-            "stackoverflow": "https://stackoverflow.com/users/18709260/nilay-ranjan",
-            "website": "",
-            "linkedin": "https://www.linkedin.com/in/nilay-ranjan-a127b9203/",
-            "instagram": "https://instagram.com/nilay.exe_?utm_medium=copy_link"
         }
     ],
      "managers": [
-
     ], 
     "contributors": [
-
-        {
-            "des": "Backend Dev & Core Member",
-            "linkedin": "https://www.linkedin.com/in/brishti-dey-048146222/",
-            "sno": 1,
-            "stackoverflow": "",
-            "github": "https://github.com/BrishtiDey",
-            "website": "",
-            "name": "Brishti Dey",
-            "instagram": "https://www.instagram.com/brishti.exe_",
-            "img_link": "https://lh6.googleusercontent.com/PRSrRbL3zc_SUNKTd_YPtyo56GqnUGlMskm-JVDtsY788JCan3ERtWlgIeefKpRcGNs=w2400"
-        }
     ]
 }
